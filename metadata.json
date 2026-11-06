@@ -1,0 +1,6 @@
+{
+  "name": "World Travel Dataset & Analytics Dashboard",
+  "description": "Comprehensive explorer and analytics dashboard for the 942-record World Travel Analysis Dataset covering 157 destinations, budget breakdowns, travel styles, and traveler ratings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
