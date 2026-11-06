@@ -16,6 +16,7 @@ export const Header: React.FC<HeaderProps> = ({ activeTab, setActiveTab, filtere
     { id: 'table', label: 'Dataset (942)' },
     { id: 'deepdive', label: 'Destinations' },
     { id: 'calculator', label: 'Trip Calculator' },
+    { id: 'python', label: 'Python Code' },
     { id: 'documentation', label: 'Documentation' },
   ];
 

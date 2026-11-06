@@ -6,6 +6,7 @@ import { MapView } from './views/MapView';
 import { DataTableView } from './views/DataTableView';
 import { CityDeepDiveView } from './views/CityDeepDiveView';
 import { TripCalculatorView } from './views/TripCalculatorView';
+import { PythonEngineView } from './views/PythonEngineView';
 import { DocumentationView } from './views/DocumentationView';
 import { WORLD_TRAVEL_DATA } from './data/travelData';
 import { Compass, Database, Globe, Download, Heart } from 'lucide-react';
@@ -60,6 +61,8 @@ export default function App() {
         )}
 
         {activeTab === 'calculator' && <TripCalculatorView />}
+
+        {activeTab === 'python' && <PythonEngineView />}
 
         {activeTab === 'documentation' && <DocumentationView />}
       </main>

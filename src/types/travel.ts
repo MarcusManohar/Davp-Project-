@@ -31,7 +31,7 @@ export interface FilterState {
   minRating: number;
 }
 
-export type ActiveTab = 'dashboard' | 'map' | 'table' | 'deepdive' | 'calculator' | 'documentation';
+export type ActiveTab = 'dashboard' | 'map' | 'table' | 'deepdive' | 'calculator' | 'python' | 'documentation';
 
 export interface DestinationGroup {
   destination: string;
