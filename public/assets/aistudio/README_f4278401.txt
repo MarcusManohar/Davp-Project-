@@ -1,0 +1,31 @@
+WORLD TRAVEL ANALYSIS DATASET
+================================
+
+File: world_travel_dataset.csv
+Rows: 942
+Columns: 17
+
+WHAT THIS DATASET CONTAINS
+- Destination city, country, continent, latitude and longitude
+- Trip style (budget, culture, nature, food, family, relaxation)
+- Main interest and best season (general planning guidance)
+- Recommended trip duration
+- Estimated daily and total trip budget in USD
+- Estimated hotel, food and local transport costs
+- Sample traveller rating and typical transport mode
+
+IMPORTANT DATA NOTE
+This is an educational analysis dataset. Destination names and coordinates are based on real places, but budgets, ratings, hotel/food/transport estimates, and trip profiles are simulated for learning and demonstration. They are NOT live prices, official tourism statistics, or verified current ratings. Check official sources before making real travel plans.
+
+HOW TO USE IN GOOGLE COLAB
+1. Upload this ZIP file to Colab.
+2. Run:
+   from google.colab import files
+   uploaded = files.upload()
+3. Unzip:
+   import zipfile
+   with zipfile.ZipFile('world_travel_analysis_dataset.zip', 'r') as z:
+       z.extractall('/content/world_travel_data')
+4. Load:
+   import pandas as pd
+   df = pd.read_csv('/content/world_travel_data/world_travel_dataset.csv')

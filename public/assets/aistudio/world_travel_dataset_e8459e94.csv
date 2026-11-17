@@ -1,0 +1,943 @@
+Destination,Country,Continent,Latitude,Longitude,Trip_Type,Main_Interest,Best_Season,Recommended_Days,Estimated_Daily_Budget_USD,Estimated_Trip_Budget_USD,Average_Traveler_Rating,Typical_Transport,Estimated_Hotel_Per_Night_USD,Estimated_Food_Per_Day_USD,Estimated_Local_Transport_Per_Day_USD,Travel_Profile_ID
+Tokyo,Japan,Asia,35.6762,139.6503,Budget Backpacking,Urban & Culture,Spring,8,46,368,3.8,Train,15.0,8.0,6.0,WP001-01
+Tokyo,Japan,Asia,35.6762,139.6503,Culture & History,Urban & Culture,Spring,7,54,378,4.0,Public Transport,15.0,8.0,6.0,WP001-02
+Tokyo,Japan,Asia,35.6762,139.6503,Nature & Adventure,Urban & Culture,Spring,8,68,544,4.4,Taxi/Rideshare,26.0,12.0,5.0,WP001-03
+Tokyo,Japan,Asia,35.6762,139.6503,Food & Local Life,Urban & Culture,Spring,10,43,430,4.6,Walking,16.0,8.0,4.0,WP001-04
+Tokyo,Japan,Asia,35.6762,139.6503,Family Holiday,Urban & Culture,Spring,3,126,378,3.5,Public Transport,45.0,21.0,10.0,WP001-05
+Tokyo,Japan,Asia,35.6762,139.6503,Relaxation,Urban & Culture,Spring,8,103,824,4.1,Public Transport,56.0,17.0,11.0,WP001-06
+Kyoto,Japan,Asia,35.0116,135.7681,Budget Backpacking,Culture,Spring,8,131,1048,3.6,Walking,42.0,21.0,8.0,WP002-01
+Kyoto,Japan,Asia,35.0116,135.7681,Culture & History,Culture,Spring,10,136,1360,3.7,Bus,52.0,31.0,9.0,WP002-02
+Kyoto,Japan,Asia,35.0116,135.7681,Nature & Adventure,Culture,Spring,4,152,608,4.5,Walking,81.0,31.0,17.0,WP002-03
+Kyoto,Japan,Asia,35.0116,135.7681,Food & Local Life,Culture,Spring,7,128,896,4.6,Train,50.0,20.0,18.0,WP002-04
+Kyoto,Japan,Asia,35.0116,135.7681,Family Holiday,Culture,Spring,8,175,1400,4.0,Public Transport,56.0,22.0,14.0,WP002-05
+Kyoto,Japan,Asia,35.0116,135.7681,Relaxation,Culture,Spring,3,196,588,3.8,Taxi/Rideshare,101.0,32.0,23.0,WP002-06
+Osaka,Japan,Asia,34.6937,135.5023,Budget Backpacking,Food,Spring,4,174,696,3.8,Train,82.0,33.0,22.0,WP003-01
+Osaka,Japan,Asia,34.6937,135.5023,Culture & History,Food,Spring,7,170,1190,4.0,Train,93.0,23.0,17.0,WP003-02
+Osaka,Japan,Asia,34.6937,135.5023,Nature & Adventure,Food,Spring,10,122,1220,3.6,Walking,36.0,25.0,13.0,WP003-03
+Osaka,Japan,Asia,34.6937,135.5023,Food & Local Life,Food,Spring,6,165,990,4.3,Rental Car,67.0,41.0,22.0,WP003-04
+Osaka,Japan,Asia,34.6937,135.5023,Family Holiday,Food,Spring,8,157,1256,4.5,Walking,81.0,34.0,20.0,WP003-05
+Osaka,Japan,Asia,34.6937,135.5023,Relaxation,Food,Spring,3,214,642,3.8,Train,83.0,52.0,29.0,WP003-06
+Seoul,South Korea,Asia,37.5665,126.978,Budget Backpacking,Urban & Culture,Spring,10,146,1460,3.7,Public Transport,75.0,23.0,17.0,WP004-01
+Seoul,South Korea,Asia,37.5665,126.978,Culture & History,Urban & Culture,Spring,4,107,428,4.0,Train,44.0,24.0,11.0,WP004-02
+Seoul,South Korea,Asia,37.5665,126.978,Nature & Adventure,Urban & Culture,Spring,7,82,574,3.9,Public Transport,23.0,14.0,12.0,WP004-03
+Seoul,South Korea,Asia,37.5665,126.978,Food & Local Life,Urban & Culture,Spring,4,121,484,3.5,Taxi/Rideshare,65.0,16.0,12.0,WP004-04
+Seoul,South Korea,Asia,37.5665,126.978,Family Holiday,Urban & Culture,Spring,10,130,1300,4.2,Train,38.0,24.0,14.0,WP004-05
+Seoul,South Korea,Asia,37.5665,126.978,Relaxation,Urban & Culture,Spring,7,170,1190,4.7,Rental Car,92.0,41.0,21.0,WP004-06
+Busan,South Korea,Asia,35.1796,129.0756,Budget Backpacking,Beach,Summer,8,181,1448,4.4,Rental Car,94.0,32.0,14.0,WP005-01
+Busan,South Korea,Asia,35.1796,129.0756,Culture & History,Beach,Summer,5,138,690,3.4,Taxi/Rideshare,44.0,21.0,8.0,WP005-02
+Busan,South Korea,Asia,35.1796,129.0756,Nature & Adventure,Beach,Summer,4,137,548,3.5,Public Transport,70.0,18.0,10.0,WP005-03
+Busan,South Korea,Asia,35.1796,129.0756,Food & Local Life,Beach,Summer,4,192,768,4.2,Walking,102.0,37.0,19.0,WP005-04
+Busan,South Korea,Asia,35.1796,129.0756,Family Holiday,Beach,Summer,10,230,2300,4.0,Public Transport,64.0,40.0,21.0,WP005-05
+Busan,South Korea,Asia,35.1796,129.0756,Relaxation,Beach,Summer,10,244,2440,4.5,Walking,109.0,50.0,14.0,WP005-06
+Beijing,China,Asia,39.9042,116.4074,Budget Backpacking,History,Autumn,4,114,456,3.7,Taxi/Rideshare,44.0,20.0,9.0,WP006-01
+Beijing,China,Asia,39.9042,116.4074,Culture & History,History,Autumn,10,132,1320,4.8,Rental Car,65.0,31.0,8.0,WP006-02
+Beijing,China,Asia,39.9042,116.4074,Nature & Adventure,History,Autumn,3,102,306,4.8,Train,31.0,19.0,7.0,WP006-03
+Beijing,China,Asia,39.9042,116.4074,Food & Local Life,History,Autumn,3,152,456,3.6,Public Transport,83.0,23.0,20.0,WP006-04
+Beijing,China,Asia,39.9042,116.4074,Family Holiday,History,Autumn,5,199,995,4.0,Walking,109.0,38.0,24.0,WP006-05
+Beijing,China,Asia,39.9042,116.4074,Relaxation,History,Autumn,4,175,700,3.8,Public Transport,74.0,33.0,22.0,WP006-06
+Shanghai,China,Asia,31.2304,121.4737,Budget Backpacking,Urban & Culture,Spring,7,35,245,4.1,Taxi/Rideshare,15.0,9.0,4.0,WP007-01
+Shanghai,China,Asia,31.2304,121.4737,Culture & History,Urban & Culture,Spring,3,52,156,4.3,Walking,26.0,9.0,7.0,WP007-02
+Shanghai,China,Asia,31.2304,121.4737,Nature & Adventure,Urban & Culture,Spring,7,60,420,4.3,Taxi/Rideshare,16.0,12.0,6.0,WP007-03
+Shanghai,China,Asia,31.2304,121.4737,Food & Local Life,Urban & Culture,Spring,5,69,345,3.7,Walking,24.0,11.0,4.0,WP007-04
+Shanghai,China,Asia,31.2304,121.4737,Family Holiday,Urban & Culture,Spring,6,107,642,3.9,Public Transport,27.0,21.0,11.0,WP007-05
+Shanghai,China,Asia,31.2304,121.4737,Relaxation,Urban & Culture,Spring,3,96,288,4.2,Taxi/Rideshare,32.0,23.0,13.0,WP007-06
+Hong Kong,Hong Kong,Asia,22.3193,114.1694,Budget Backpacking,Urban & Culture,Autumn,5,124,620,3.6,Taxi/Rideshare,57.0,25.0,18.0,WP008-01
+Hong Kong,Hong Kong,Asia,22.3193,114.1694,Culture & History,Urban & Culture,Autumn,8,78,624,4.6,Bus,41.0,10.0,11.0,WP008-02
+Hong Kong,Hong Kong,Asia,22.3193,114.1694,Nature & Adventure,Urban & Culture,Autumn,3,110,330,4.7,Walking,46.0,17.0,12.0,WP008-03
+Hong Kong,Hong Kong,Asia,22.3193,114.1694,Food & Local Life,Urban & Culture,Autumn,4,120,480,4.4,Bus,48.0,18.0,17.0,WP008-04
+Hong Kong,Hong Kong,Asia,22.3193,114.1694,Family Holiday,Urban & Culture,Autumn,3,123,369,4.4,Bus,32.0,20.0,8.0,WP008-05
+Hong Kong,Hong Kong,Asia,22.3193,114.1694,Relaxation,Urban & Culture,Autumn,4,165,660,4.5,Taxi/Rideshare,76.0,32.0,10.0,WP008-06
+Taipei,Taiwan,Asia,25.033,121.5654,Budget Backpacking,Food,Autumn,10,57,570,4.0,Taxi/Rideshare,17.0,8.0,5.0,WP009-01
+Taipei,Taiwan,Asia,25.033,121.5654,Culture & History,Food,Autumn,5,58,290,3.7,Train,26.0,10.0,6.0,WP009-02
+Taipei,Taiwan,Asia,25.033,121.5654,Nature & Adventure,Food,Autumn,7,105,735,4.5,Train,53.0,26.0,14.0,WP009-03
+Taipei,Taiwan,Asia,25.033,121.5654,Food & Local Life,Food,Autumn,3,105,315,3.7,Bus,51.0,18.0,12.0,WP009-04
+Taipei,Taiwan,Asia,25.033,121.5654,Family Holiday,Food,Autumn,5,124,620,3.6,Walking,35.0,29.0,17.0,WP009-05
+Taipei,Taiwan,Asia,25.033,121.5654,Relaxation,Food,Autumn,4,136,544,4.6,Rental Car,48.0,31.0,19.0,WP009-06
+Singapore,Singapore,Asia,1.3521,103.8198,Budget Backpacking,Urban & Culture,Winter,8,75,600,3.7,Bus,25.0,10.0,10.0,WP010-01
+Singapore,Singapore,Asia,1.3521,103.8198,Culture & History,Urban & Culture,Winter,8,116,928,4.2,Walking,63.0,22.0,17.0,WP010-02
+Singapore,Singapore,Asia,1.3521,103.8198,Nature & Adventure,Urban & Culture,Winter,5,86,430,3.7,Bus,22.0,17.0,7.0,WP010-03
+Singapore,Singapore,Asia,1.3521,103.8198,Food & Local Life,Urban & Culture,Winter,6,112,672,4.3,Taxi/Rideshare,32.0,27.0,8.0,WP010-04
+Singapore,Singapore,Asia,1.3521,103.8198,Family Holiday,Urban & Culture,Winter,8,117,936,4.1,Taxi/Rideshare,62.0,22.0,14.0,WP010-05
+Singapore,Singapore,Asia,1.3521,103.8198,Relaxation,Urban & Culture,Winter,5,152,760,4.0,Walking,80.0,31.0,18.0,WP010-06
+Bangkok,Thailand,Asia,13.7563,100.5018,Budget Backpacking,Food,Winter,7,84,588,3.9,Rental Car,29.0,18.0,9.0,WP011-01
+Bangkok,Thailand,Asia,13.7563,100.5018,Culture & History,Food,Winter,6,70,420,4.4,Rental Car,32.0,17.0,8.0,WP011-02
+Bangkok,Thailand,Asia,13.7563,100.5018,Nature & Adventure,Food,Winter,6,84,504,4.2,Public Transport,29.0,12.0,11.0,WP011-03
+Bangkok,Thailand,Asia,13.7563,100.5018,Food & Local Life,Food,Winter,6,87,522,4.1,Walking,27.0,16.0,12.0,WP011-04
+Bangkok,Thailand,Asia,13.7563,100.5018,Family Holiday,Food,Winter,8,107,856,3.5,Taxi/Rideshare,48.0,21.0,6.0,WP011-05
+Bangkok,Thailand,Asia,13.7563,100.5018,Relaxation,Food,Winter,8,131,1048,3.9,Train,39.0,17.0,19.0,WP011-06
+Chiang Mai,Thailand,Asia,18.7883,98.9853,Budget Backpacking,Nature,Winter,6,91,546,4.8,Taxi/Rideshare,28.0,19.0,9.0,WP012-01
+Chiang Mai,Thailand,Asia,18.7883,98.9853,Culture & History,Nature,Winter,4,64,256,4.5,Public Transport,33.0,15.0,9.0,WP012-02
+Chiang Mai,Thailand,Asia,18.7883,98.9853,Nature & Adventure,Nature,Winter,4,87,348,3.8,Walking,35.0,11.0,7.0,WP012-03
+Chiang Mai,Thailand,Asia,18.7883,98.9853,Food & Local Life,Nature,Winter,6,48,288,3.7,Rental Car,22.0,12.0,5.0,WP012-04
+Chiang Mai,Thailand,Asia,18.7883,98.9853,Family Holiday,Nature,Winter,7,129,903,4.7,Taxi/Rideshare,49.0,31.0,12.0,WP012-05
+Chiang Mai,Thailand,Asia,18.7883,98.9853,Relaxation,Nature,Winter,8,108,864,4.8,Rental Car,35.0,16.0,12.0,WP012-06
+Phuket,Thailand,Asia,7.8804,98.3923,Budget Backpacking,Beach,Winter,5,265,1325,4.1,Walking,89.0,41.0,22.0,WP013-01
+Phuket,Thailand,Asia,7.8804,98.3923,Culture & History,Beach,Winter,4,245,980,3.6,Rental Car,112.0,52.0,14.0,WP013-02
+Phuket,Thailand,Asia,7.8804,98.3923,Nature & Adventure,Beach,Winter,5,287,1435,4.2,Rental Car,77.0,66.0,26.0,WP013-03
+Phuket,Thailand,Asia,7.8804,98.3923,Food & Local Life,Beach,Winter,10,237,2370,4.7,Taxi/Rideshare,86.0,29.0,20.0,WP013-04
+Phuket,Thailand,Asia,7.8804,98.3923,Family Holiday,Beach,Winter,10,324,3240,4.7,Rental Car,133.0,70.0,42.0,WP013-05
+Phuket,Thailand,Asia,7.8804,98.3923,Relaxation,Beach,Winter,6,318,1908,3.7,Rental Car,126.0,54.0,37.0,WP013-06
+Hanoi,Vietnam,Asia,21.0278,105.8342,Budget Backpacking,Food,Autumn,10,139,1390,4.1,Train,76.0,26.0,20.0,WP014-01
+Hanoi,Vietnam,Asia,21.0278,105.8342,Culture & History,Food,Autumn,3,121,363,4.4,Train,62.0,17.0,9.0,WP014-02
+Hanoi,Vietnam,Asia,21.0278,105.8342,Nature & Adventure,Food,Autumn,4,159,636,4.1,Bus,76.0,27.0,20.0,WP014-03
+Hanoi,Vietnam,Asia,21.0278,105.8342,Food & Local Life,Food,Autumn,5,171,855,4.7,Rental Car,44.0,33.0,26.0,WP014-04
+Hanoi,Vietnam,Asia,21.0278,105.8342,Family Holiday,Food,Autumn,4,202,808,4.4,Walking,53.0,25.0,15.0,WP014-05
+Hanoi,Vietnam,Asia,21.0278,105.8342,Relaxation,Food,Autumn,7,175,1225,3.6,Train,69.0,24.0,25.0,WP014-06
+Ho Chi Minh City,Vietnam,Asia,10.8231,106.6297,Budget Backpacking,Urban & Culture,Winter,10,166,1660,4.0,Taxi/Rideshare,72.0,36.0,10.0,WP015-01
+Ho Chi Minh City,Vietnam,Asia,10.8231,106.6297,Culture & History,Urban & Culture,Winter,5,154,770,3.6,Public Transport,81.0,30.0,22.0,WP015-02
+Ho Chi Minh City,Vietnam,Asia,10.8231,106.6297,Nature & Adventure,Urban & Culture,Winter,6,182,1092,4.8,Train,50.0,38.0,21.0,WP015-03
+Ho Chi Minh City,Vietnam,Asia,10.8231,106.6297,Food & Local Life,Urban & Culture,Winter,8,147,1176,4.6,Walking,63.0,20.0,22.0,WP015-04
+Ho Chi Minh City,Vietnam,Asia,10.8231,106.6297,Family Holiday,Urban & Culture,Winter,5,179,895,4.2,Walking,65.0,33.0,15.0,WP015-05
+Ho Chi Minh City,Vietnam,Asia,10.8231,106.6297,Relaxation,Urban & Culture,Winter,10,242,2420,4.1,Rental Car,130.0,49.0,32.0,WP015-06
+Da Nang,Vietnam,Asia,16.0544,108.2022,Budget Backpacking,Beach,Spring,8,156,1248,4.2,Walking,52.0,35.0,16.0,WP016-01
+Da Nang,Vietnam,Asia,16.0544,108.2022,Culture & History,Beach,Spring,6,195,1170,4.1,Walking,83.0,32.0,15.0,WP016-02
+Da Nang,Vietnam,Asia,16.0544,108.2022,Nature & Adventure,Beach,Spring,5,145,725,4.7,Train,69.0,28.0,17.0,WP016-03
+Da Nang,Vietnam,Asia,16.0544,108.2022,Food & Local Life,Beach,Spring,3,177,531,4.1,Bus,54.0,26.0,23.0,WP016-04
+Da Nang,Vietnam,Asia,16.0544,108.2022,Family Holiday,Beach,Spring,5,217,1085,4.7,Walking,112.0,42.0,22.0,WP016-05
+Da Nang,Vietnam,Asia,16.0544,108.2022,Relaxation,Beach,Spring,3,213,639,3.8,Rental Car,84.0,47.0,25.0,WP016-06
+Kuala Lumpur,Malaysia,Asia,3.139,101.6869,Budget Backpacking,Urban & Culture,Winter,10,197,1970,3.4,Bus,62.0,41.0,16.0,WP017-01
+Kuala Lumpur,Malaysia,Asia,3.139,101.6869,Culture & History,Urban & Culture,Winter,6,187,1122,4.2,Bus,71.0,41.0,16.0,WP017-02
+Kuala Lumpur,Malaysia,Asia,3.139,101.6869,Nature & Adventure,Urban & Culture,Winter,5,198,990,3.9,Train,57.0,29.0,12.0,WP017-03
+Kuala Lumpur,Malaysia,Asia,3.139,101.6869,Food & Local Life,Urban & Culture,Winter,4,163,652,3.7,Rental Car,54.0,32.0,21.0,WP017-04
+Kuala Lumpur,Malaysia,Asia,3.139,101.6869,Family Holiday,Urban & Culture,Winter,3,216,648,4.6,Bus,69.0,31.0,11.0,WP017-05
+Kuala Lumpur,Malaysia,Asia,3.139,101.6869,Relaxation,Urban & Culture,Winter,5,211,1055,3.5,Public Transport,88.0,44.0,13.0,WP017-06
+Penang,Malaysia,Asia,5.4141,100.3288,Budget Backpacking,Food,Winter,10,153,1530,3.4,Bus,60.0,27.0,10.0,WP018-01
+Penang,Malaysia,Asia,5.4141,100.3288,Culture & History,Food,Winter,5,146,730,4.8,Rental Car,41.0,19.0,14.0,WP018-02
+Penang,Malaysia,Asia,5.4141,100.3288,Nature & Adventure,Food,Winter,4,146,584,3.6,Taxi/Rideshare,78.0,19.0,11.0,WP018-03
+Penang,Malaysia,Asia,5.4141,100.3288,Food & Local Life,Food,Winter,7,193,1351,4.3,Taxi/Rideshare,61.0,36.0,18.0,WP018-04
+Penang,Malaysia,Asia,5.4141,100.3288,Family Holiday,Food,Winter,5,236,1180,4.7,Rental Car,81.0,47.0,26.0,WP018-05
+Penang,Malaysia,Asia,5.4141,100.3288,Relaxation,Food,Winter,10,207,2070,3.7,Train,68.0,27.0,15.0,WP018-06
+Jakarta,Indonesia,Asia,-6.2088,106.8456,Budget Backpacking,Urban & Culture,Summer,4,165,660,3.4,Rental Car,75.0,30.0,9.0,WP019-01
+Jakarta,Indonesia,Asia,-6.2088,106.8456,Culture & History,Urban & Culture,Summer,8,192,1536,3.8,Rental Car,52.0,29.0,15.0,WP019-02
+Jakarta,Indonesia,Asia,-6.2088,106.8456,Nature & Adventure,Urban & Culture,Summer,6,181,1086,3.6,Train,80.0,43.0,24.0,WP019-03
+Jakarta,Indonesia,Asia,-6.2088,106.8456,Food & Local Life,Urban & Culture,Summer,3,165,495,3.6,Bus,71.0,37.0,23.0,WP019-04
+Jakarta,Indonesia,Asia,-6.2088,106.8456,Family Holiday,Urban & Culture,Summer,3,252,756,4.1,Bus,116.0,61.0,25.0,WP019-05
+Jakarta,Indonesia,Asia,-6.2088,106.8456,Relaxation,Urban & Culture,Summer,6,274,1644,3.5,Public Transport,142.0,59.0,30.0,WP019-06
+Bali,Indonesia,Asia,-8.4095,115.1889,Budget Backpacking,Beach,Summer,8,86,688,4.7,Taxi/Rideshare,37.0,11.0,11.0,WP020-01
+Bali,Indonesia,Asia,-8.4095,115.1889,Culture & History,Beach,Summer,7,91,637,3.5,Train,36.0,19.0,13.0,WP020-02
+Bali,Indonesia,Asia,-8.4095,115.1889,Nature & Adventure,Beach,Summer,7,80,560,4.1,Rental Car,43.0,14.0,7.0,WP020-03
+Bali,Indonesia,Asia,-8.4095,115.1889,Food & Local Life,Beach,Summer,8,98,784,3.6,Train,34.0,21.0,8.0,WP020-04
+Bali,Indonesia,Asia,-8.4095,115.1889,Family Holiday,Beach,Summer,10,148,1480,4.5,Public Transport,57.0,24.0,12.0,WP020-05
+Bali,Indonesia,Asia,-8.4095,115.1889,Relaxation,Beach,Summer,10,163,1630,4.2,Public Transport,73.0,31.0,15.0,WP020-06
+Manila,Philippines,Asia,14.5995,120.9842,Budget Backpacking,Urban & Culture,Winter,7,109,763,4.5,Walking,42.0,14.0,8.0,WP021-01
+Manila,Philippines,Asia,14.5995,120.9842,Culture & History,Urban & Culture,Winter,5,79,395,4.1,Walking,31.0,10.0,9.0,WP021-02
+Manila,Philippines,Asia,14.5995,120.9842,Nature & Adventure,Urban & Culture,Winter,8,93,744,3.6,Taxi/Rideshare,24.0,16.0,7.0,WP021-03
+Manila,Philippines,Asia,14.5995,120.9842,Food & Local Life,Urban & Culture,Winter,6,77,462,4.8,Walking,38.0,14.0,9.0,WP021-04
+Manila,Philippines,Asia,14.5995,120.9842,Family Holiday,Urban & Culture,Winter,8,168,1344,3.8,Rental Car,91.0,25.0,18.0,WP021-05
+Manila,Philippines,Asia,14.5995,120.9842,Relaxation,Urban & Culture,Winter,4,167,668,4.8,Taxi/Rideshare,79.0,23.0,10.0,WP021-06
+Cebu,Philippines,Asia,10.3157,123.8854,Budget Backpacking,Beach,Winter,5,253,1265,4.6,Bus,118.0,58.0,27.0,WP022-01
+Cebu,Philippines,Asia,10.3157,123.8854,Culture & History,Beach,Winter,10,251,2510,3.6,Taxi/Rideshare,99.0,41.0,32.0,WP022-02
+Cebu,Philippines,Asia,10.3157,123.8854,Nature & Adventure,Beach,Winter,6,237,1422,4.8,Train,129.0,36.0,21.0,WP022-03
+Cebu,Philippines,Asia,10.3157,123.8854,Food & Local Life,Beach,Winter,3,241,723,3.9,Rental Car,111.0,54.0,21.0,WP022-04
+Cebu,Philippines,Asia,10.3157,123.8854,Family Holiday,Beach,Winter,6,248,1488,4.8,Train,99.0,49.0,34.0,WP022-05
+Cebu,Philippines,Asia,10.3157,123.8854,Relaxation,Beach,Winter,3,300,900,4.2,Rental Car,76.0,42.0,41.0,WP022-06
+Delhi,India,Asia,28.6139,77.209,Budget Backpacking,History,Winter,6,63,378,4.6,Bus,22.0,13.0,7.0,WP023-01
+Delhi,India,Asia,28.6139,77.209,Culture & History,History,Winter,10,96,960,4.4,Taxi/Rideshare,35.0,15.0,12.0,WP023-02
+Delhi,India,Asia,28.6139,77.209,Nature & Adventure,History,Winter,10,116,1160,4.2,Taxi/Rideshare,31.0,23.0,16.0,WP023-03
+Delhi,India,Asia,28.6139,77.209,Food & Local Life,History,Winter,8,83,664,3.5,Public Transport,40.0,18.0,5.0,WP023-04
+Delhi,India,Asia,28.6139,77.209,Family Holiday,History,Winter,8,115,920,3.8,Public Transport,30.0,26.0,9.0,WP023-05
+Delhi,India,Asia,28.6139,77.209,Relaxation,History,Winter,6,156,936,3.6,Taxi/Rideshare,58.0,33.0,11.0,WP023-06
+Mumbai,India,Asia,19.076,72.8777,Budget Backpacking,Urban & Culture,Winter,7,69,483,4.7,Taxi/Rideshare,31.0,13.0,7.0,WP024-01
+Mumbai,India,Asia,19.076,72.8777,Culture & History,Urban & Culture,Winter,6,88,528,4.4,Rental Car,29.0,11.0,11.0,WP024-02
+Mumbai,India,Asia,19.076,72.8777,Nature & Adventure,Urban & Culture,Winter,8,95,760,4.2,Public Transport,36.0,16.0,10.0,WP024-03
+Mumbai,India,Asia,19.076,72.8777,Food & Local Life,Urban & Culture,Winter,8,113,904,3.8,Bus,35.0,19.0,11.0,WP024-04
+Mumbai,India,Asia,19.076,72.8777,Family Holiday,Urban & Culture,Winter,6,129,774,4.3,Taxi/Rideshare,44.0,27.0,7.0,WP024-05
+Mumbai,India,Asia,19.076,72.8777,Relaxation,Urban & Culture,Winter,5,164,820,3.4,Walking,79.0,40.0,23.0,WP024-06
+Jaipur,India,Asia,26.9124,75.7873,Budget Backpacking,History,Winter,10,178,1780,4.6,Taxi/Rideshare,87.0,26.0,12.0,WP025-01
+Jaipur,India,Asia,26.9124,75.7873,Culture & History,History,Winter,8,174,1392,4.5,Walking,79.0,24.0,10.0,WP025-02
+Jaipur,India,Asia,26.9124,75.7873,Nature & Adventure,History,Winter,5,147,735,4.6,Public Transport,62.0,32.0,9.0,WP025-03
+Jaipur,India,Asia,26.9124,75.7873,Food & Local Life,History,Winter,5,179,895,4.5,Train,56.0,40.0,25.0,WP025-04
+Jaipur,India,Asia,26.9124,75.7873,Family Holiday,History,Winter,7,228,1596,4.2,Bus,114.0,35.0,30.0,WP025-05
+Jaipur,India,Asia,26.9124,75.7873,Relaxation,History,Winter,10,258,2580,3.8,Bus,127.0,47.0,15.0,WP025-06
+Agra,India,Asia,27.1767,78.0081,Budget Backpacking,History,Winter,10,122,1220,4.6,Bus,34.0,21.0,9.0,WP026-01
+Agra,India,Asia,27.1767,78.0081,Culture & History,History,Winter,6,87,522,4.0,Walking,39.0,17.0,12.0,WP026-02
+Agra,India,Asia,27.1767,78.0081,Nature & Adventure,History,Winter,3,119,357,4.4,Rental Car,31.0,28.0,13.0,WP026-03
+Agra,India,Asia,27.1767,78.0081,Food & Local Life,History,Winter,8,100,800,3.5,Rental Car,52.0,16.0,9.0,WP026-04
+Agra,India,Asia,27.1767,78.0081,Family Holiday,History,Winter,3,129,387,4.8,Bus,71.0,17.0,9.0,WP026-05
+Agra,India,Asia,27.1767,78.0081,Relaxation,History,Winter,6,144,864,4.1,Walking,77.0,30.0,15.0,WP026-06
+Varanasi,India,Asia,25.3176,82.9739,Budget Backpacking,Culture,Winter,8,107,856,3.6,Rental Car,47.0,26.0,8.0,WP027-01
+Varanasi,India,Asia,25.3176,82.9739,Culture & History,Culture,Winter,4,101,404,4.2,Train,51.0,13.0,12.0,WP027-02
+Varanasi,India,Asia,25.3176,82.9739,Nature & Adventure,Culture,Winter,3,99,297,4.1,Train,54.0,24.0,13.0,WP027-03
+Varanasi,India,Asia,25.3176,82.9739,Food & Local Life,Culture,Winter,8,65,520,3.8,Walking,28.0,8.0,8.0,WP027-04
+Varanasi,India,Asia,25.3176,82.9739,Family Holiday,Culture,Winter,4,125,500,4.7,Train,34.0,27.0,9.0,WP027-05
+Varanasi,India,Asia,25.3176,82.9739,Relaxation,Culture,Winter,10,136,1360,4.8,Bus,66.0,30.0,15.0,WP027-06
+Kochi,India,Asia,9.9312,76.2673,Budget Backpacking,Culture,Winter,4,103,412,4.3,Train,29.0,24.0,7.0,WP028-01
+Kochi,India,Asia,9.9312,76.2673,Culture & History,Culture,Winter,10,130,1300,4.7,Taxi/Rideshare,45.0,19.0,7.0,WP028-02
+Kochi,India,Asia,9.9312,76.2673,Nature & Adventure,Culture,Winter,7,138,966,3.7,Public Transport,54.0,31.0,14.0,WP028-03
+Kochi,India,Asia,9.9312,76.2673,Food & Local Life,Culture,Winter,6,98,588,4.3,Taxi/Rideshare,26.0,22.0,13.0,WP028-04
+Kochi,India,Asia,9.9312,76.2673,Family Holiday,Culture,Winter,6,163,978,4.5,Public Transport,44.0,30.0,15.0,WP028-05
+Kochi,India,Asia,9.9312,76.2673,Relaxation,Culture,Winter,6,153,918,4.6,Rental Car,42.0,20.0,17.0,WP028-06
+Goa,India,Asia,15.2993,74.124,Budget Backpacking,Beach,Winter,7,107,749,4.3,Taxi/Rideshare,50.0,18.0,12.0,WP029-01
+Goa,India,Asia,15.2993,74.124,Culture & History,Beach,Winter,6,109,654,4.2,Rental Car,30.0,23.0,15.0,WP029-02
+Goa,India,Asia,15.2993,74.124,Nature & Adventure,Beach,Winter,6,99,594,4.1,Train,37.0,23.0,9.0,WP029-03
+Goa,India,Asia,15.2993,74.124,Food & Local Life,Beach,Winter,5,84,420,4.0,Walking,27.0,20.0,10.0,WP029-04
+Goa,India,Asia,15.2993,74.124,Family Holiday,Beach,Winter,3,172,516,3.5,Public Transport,48.0,23.0,21.0,WP029-05
+Goa,India,Asia,15.2993,74.124,Relaxation,Beach,Winter,7,143,1001,3.5,Taxi/Rideshare,60.0,30.0,13.0,WP029-06
+Kathmandu,Nepal,Asia,27.7172,85.324,Budget Backpacking,Nature,Autumn,5,129,645,4.4,Bus,36.0,24.0,8.0,WP030-01
+Kathmandu,Nepal,Asia,27.7172,85.324,Culture & History,Nature,Autumn,4,184,736,4.8,Bus,93.0,31.0,23.0,WP030-02
+Kathmandu,Nepal,Asia,27.7172,85.324,Nature & Adventure,Nature,Autumn,10,151,1510,4.1,Taxi/Rideshare,82.0,34.0,17.0,WP030-03
+Kathmandu,Nepal,Asia,27.7172,85.324,Food & Local Life,Nature,Autumn,7,126,882,4.9,Walking,42.0,18.0,15.0,WP030-04
+Kathmandu,Nepal,Asia,27.7172,85.324,Family Holiday,Nature,Autumn,5,202,1010,4.0,Train,103.0,39.0,18.0,WP030-05
+Kathmandu,Nepal,Asia,27.7172,85.324,Relaxation,Nature,Autumn,8,196,1568,4.4,Public Transport,54.0,37.0,17.0,WP030-06
+Pokhara,Nepal,Asia,28.2096,83.9856,Budget Backpacking,Nature,Autumn,4,174,696,4.1,Walking,60.0,42.0,19.0,WP031-01
+Pokhara,Nepal,Asia,28.2096,83.9856,Culture & History,Nature,Autumn,4,137,548,3.7,Taxi/Rideshare,36.0,18.0,13.0,WP031-02
+Pokhara,Nepal,Asia,28.2096,83.9856,Nature & Adventure,Nature,Autumn,6,185,1110,4.4,Rental Car,61.0,40.0,11.0,WP031-03
+Pokhara,Nepal,Asia,28.2096,83.9856,Food & Local Life,Nature,Autumn,3,186,558,3.9,Walking,80.0,35.0,15.0,WP031-04
+Pokhara,Nepal,Asia,28.2096,83.9856,Family Holiday,Nature,Autumn,6,199,1194,5.0,Public Transport,50.0,32.0,14.0,WP031-05
+Pokhara,Nepal,Asia,28.2096,83.9856,Relaxation,Nature,Autumn,10,203,2030,3.9,Bus,58.0,37.0,19.0,WP031-06
+Paro,Bhutan,Asia,27.4286,89.4167,Budget Backpacking,Nature,Autumn,7,96,672,4.6,Taxi/Rideshare,40.0,20.0,8.0,WP032-01
+Paro,Bhutan,Asia,27.4286,89.4167,Culture & History,Nature,Autumn,10,98,980,4.6,Rental Car,25.0,23.0,13.0,WP032-02
+Paro,Bhutan,Asia,27.4286,89.4167,Nature & Adventure,Nature,Autumn,7,102,714,4.1,Walking,38.0,14.0,5.0,WP032-03
+Paro,Bhutan,Asia,27.4286,89.4167,Food & Local Life,Nature,Autumn,4,89,356,4.7,Taxi/Rideshare,35.0,19.0,8.0,WP032-04
+Paro,Bhutan,Asia,27.4286,89.4167,Family Holiday,Nature,Autumn,10,143,1430,3.7,Rental Car,61.0,27.0,13.0,WP032-05
+Paro,Bhutan,Asia,27.4286,89.4167,Relaxation,Nature,Autumn,8,142,1136,4.0,Bus,69.0,18.0,16.0,WP032-06
+Dhaka,Bangladesh,Asia,23.8103,90.4125,Budget Backpacking,Urban & Culture,Winter,4,215,860,4.8,Bus,76.0,53.0,25.0,WP033-01
+Dhaka,Bangladesh,Asia,23.8103,90.4125,Culture & History,Urban & Culture,Winter,4,168,672,3.6,Bus,52.0,33.0,21.0,WP033-02
+Dhaka,Bangladesh,Asia,23.8103,90.4125,Nature & Adventure,Urban & Culture,Winter,4,159,636,4.8,Walking,63.0,35.0,20.0,WP033-03
+Dhaka,Bangladesh,Asia,23.8103,90.4125,Food & Local Life,Urban & Culture,Winter,8,207,1656,4.8,Taxi/Rideshare,92.0,51.0,17.0,WP033-04
+Dhaka,Bangladesh,Asia,23.8103,90.4125,Family Holiday,Urban & Culture,Winter,4,230,920,4.1,Rental Car,88.0,37.0,18.0,WP033-05
+Dhaka,Bangladesh,Asia,23.8103,90.4125,Relaxation,Urban & Culture,Winter,5,212,1060,4.2,Bus,82.0,26.0,18.0,WP033-06
+Colombo,Sri Lanka,Asia,6.9271,79.8612,Budget Backpacking,Beach,Winter,7,133,931,4.3,Rental Car,52.0,26.0,17.0,WP034-01
+Colombo,Sri Lanka,Asia,6.9271,79.8612,Culture & History,Beach,Winter,6,127,762,4.8,Taxi/Rideshare,57.0,21.0,12.0,WP034-02
+Colombo,Sri Lanka,Asia,6.9271,79.8612,Nature & Adventure,Beach,Winter,3,141,423,4.1,Bus,77.0,18.0,16.0,WP034-03
+Colombo,Sri Lanka,Asia,6.9271,79.8612,Food & Local Life,Beach,Winter,4,127,508,4.5,Rental Car,52.0,25.0,11.0,WP034-04
+Colombo,Sri Lanka,Asia,6.9271,79.8612,Family Holiday,Beach,Winter,6,198,1188,4.0,Bus,90.0,25.0,22.0,WP034-05
+Colombo,Sri Lanka,Asia,6.9271,79.8612,Relaxation,Beach,Winter,3,219,657,3.9,Taxi/Rideshare,99.0,34.0,27.0,WP034-06
+Male,Maldives,Asia,4.1755,73.5093,Budget Backpacking,Beach,Winter,7,130,910,4.4,Bus,45.0,27.0,15.0,WP035-01
+Male,Maldives,Asia,4.1755,73.5093,Culture & History,Beach,Winter,7,136,952,4.5,Public Transport,47.0,23.0,18.0,WP035-02
+Male,Maldives,Asia,4.1755,73.5093,Nature & Adventure,Beach,Winter,8,136,1088,4.5,Walking,75.0,32.0,8.0,WP035-03
+Male,Maldives,Asia,4.1755,73.5093,Food & Local Life,Beach,Winter,7,174,1218,3.9,Bus,60.0,42.0,15.0,WP035-04
+Male,Maldives,Asia,4.1755,73.5093,Family Holiday,Beach,Winter,4,222,888,3.7,Train,66.0,35.0,29.0,WP035-05
+Male,Maldives,Asia,4.1755,73.5093,Relaxation,Beach,Winter,10,239,2390,4.2,Walking,123.0,30.0,20.0,WP035-06
+Dubai,United Arab Emirates,Asia,25.2048,55.2708,Budget Backpacking,Luxury,Winter,4,140,560,3.7,Walking,67.0,32.0,9.0,WP036-01
+Dubai,United Arab Emirates,Asia,25.2048,55.2708,Culture & History,Luxury,Winter,3,177,531,4.0,Walking,82.0,44.0,20.0,WP036-02
+Dubai,United Arab Emirates,Asia,25.2048,55.2708,Nature & Adventure,Luxury,Winter,4,178,712,4.2,Bus,96.0,40.0,25.0,WP036-03
+Dubai,United Arab Emirates,Asia,25.2048,55.2708,Food & Local Life,Luxury,Winter,5,145,725,4.4,Taxi/Rideshare,79.0,26.0,11.0,WP036-04
+Dubai,United Arab Emirates,Asia,25.2048,55.2708,Family Holiday,Luxury,Winter,7,209,1463,4.2,Train,103.0,47.0,13.0,WP036-05
+Dubai,United Arab Emirates,Asia,25.2048,55.2708,Relaxation,Luxury,Winter,3,208,624,4.4,Bus,87.0,28.0,28.0,WP036-06
+Abu Dhabi,United Arab Emirates,Asia,24.4539,54.3773,Budget Backpacking,Culture,Winter,3,82,246,4.6,Bus,32.0,15.0,11.0,WP037-01
+Abu Dhabi,United Arab Emirates,Asia,24.4539,54.3773,Culture & History,Culture,Winter,4,57,228,4.7,Bus,30.0,10.0,5.0,WP037-02
+Abu Dhabi,United Arab Emirates,Asia,24.4539,54.3773,Nature & Adventure,Culture,Winter,4,93,372,4.1,Public Transport,34.0,12.0,13.0,WP037-03
+Abu Dhabi,United Arab Emirates,Asia,24.4539,54.3773,Food & Local Life,Culture,Winter,10,88,880,3.7,Public Transport,30.0,20.0,11.0,WP037-04
+Abu Dhabi,United Arab Emirates,Asia,24.4539,54.3773,Family Holiday,Culture,Winter,10,103,1030,4.6,Rental Car,45.0,24.0,5.0,WP037-05
+Abu Dhabi,United Arab Emirates,Asia,24.4539,54.3773,Relaxation,Culture,Winter,10,128,1280,3.7,Walking,55.0,22.0,16.0,WP037-06
+Riyadh,Saudi Arabia,Asia,24.7136,46.6753,Budget Backpacking,Urban & Culture,Winter,3,113,339,3.5,Rental Car,50.0,23.0,6.0,WP038-01
+Riyadh,Saudi Arabia,Asia,24.7136,46.6753,Culture & History,Urban & Culture,Winter,7,138,966,4.2,Walking,56.0,21.0,9.0,WP038-02
+Riyadh,Saudi Arabia,Asia,24.7136,46.6753,Nature & Adventure,Urban & Culture,Winter,3,129,387,4.3,Train,54.0,19.0,15.0,WP038-03
+Riyadh,Saudi Arabia,Asia,24.7136,46.6753,Food & Local Life,Urban & Culture,Winter,3,121,363,4.8,Taxi/Rideshare,49.0,30.0,13.0,WP038-04
+Riyadh,Saudi Arabia,Asia,24.7136,46.6753,Family Holiday,Urban & Culture,Winter,10,164,1640,4.1,Walking,60.0,28.0,20.0,WP038-05
+Riyadh,Saudi Arabia,Asia,24.7136,46.6753,Relaxation,Urban & Culture,Winter,10,175,1750,3.5,Train,82.0,35.0,22.0,WP038-06
+Doha,Qatar,Asia,25.2854,51.531,Budget Backpacking,Luxury,Winter,5,147,735,4.2,Walking,44.0,33.0,14.0,WP039-01
+Doha,Qatar,Asia,25.2854,51.531,Culture & History,Luxury,Winter,8,203,1624,3.7,Train,55.0,45.0,19.0,WP039-02
+Doha,Qatar,Asia,25.2854,51.531,Nature & Adventure,Luxury,Winter,4,179,716,3.5,Train,92.0,29.0,15.0,WP039-03
+Doha,Qatar,Asia,25.2854,51.531,Food & Local Life,Luxury,Winter,10,192,1920,4.2,Bus,50.0,39.0,15.0,WP039-04
+Doha,Qatar,Asia,25.2854,51.531,Family Holiday,Luxury,Winter,10,188,1880,4.4,Bus,54.0,32.0,26.0,WP039-05
+Doha,Qatar,Asia,25.2854,51.531,Relaxation,Luxury,Winter,6,253,1518,3.9,Train,101.0,47.0,36.0,WP039-06
+Istanbul,Turkey,Europe,41.0082,28.9784,Budget Backpacking,History,Spring,10,211,2110,3.5,Rental Car,58.0,42.0,28.0,WP040-01
+Istanbul,Turkey,Europe,41.0082,28.9784,Culture & History,History,Spring,5,214,1070,3.6,Bus,96.0,34.0,24.0,WP040-02
+Istanbul,Turkey,Europe,41.0082,28.9784,Nature & Adventure,History,Spring,4,231,924,4.4,Bus,89.0,50.0,33.0,WP040-03
+Istanbul,Turkey,Europe,41.0082,28.9784,Food & Local Life,History,Spring,5,232,1160,4.4,Public Transport,63.0,47.0,20.0,WP040-04
+Istanbul,Turkey,Europe,41.0082,28.9784,Family Holiday,History,Spring,3,237,711,3.6,Taxi/Rideshare,107.0,42.0,15.0,WP040-05
+Istanbul,Turkey,Europe,41.0082,28.9784,Relaxation,History,Spring,10,262,2620,4.4,Bus,96.0,51.0,29.0,WP040-06
+Cappadocia,Turkey,Europe,38.6431,34.8289,Budget Backpacking,Nature,Spring,5,275,1375,4.1,Public Transport,116.0,52.0,25.0,WP041-01
+Cappadocia,Turkey,Europe,38.6431,34.8289,Culture & History,Nature,Spring,4,253,1012,4.9,Public Transport,119.0,47.0,22.0,WP041-02
+Cappadocia,Turkey,Europe,38.6431,34.8289,Nature & Adventure,Nature,Spring,5,233,1165,4.7,Walking,89.0,58.0,18.0,WP041-03
+Cappadocia,Turkey,Europe,38.6431,34.8289,Food & Local Life,Nature,Spring,4,280,1120,3.7,Public Transport,108.0,66.0,26.0,WP041-04
+Cappadocia,Turkey,Europe,38.6431,34.8289,Family Holiday,Nature,Spring,10,269,2690,4.5,Bus,121.0,57.0,28.0,WP041-05
+Cappadocia,Turkey,Europe,38.6431,34.8289,Relaxation,Nature,Spring,5,310,1550,4.8,Walking,143.0,65.0,21.0,WP041-06
+Tbilisi,Georgia,Europe,41.7151,44.8271,Budget Backpacking,Culture,Spring,4,202,808,3.7,Train,98.0,30.0,20.0,WP042-01
+Tbilisi,Georgia,Europe,41.7151,44.8271,Culture & History,Culture,Spring,7,183,1281,4.4,Rental Car,90.0,35.0,20.0,WP042-02
+Tbilisi,Georgia,Europe,41.7151,44.8271,Nature & Adventure,Culture,Spring,3,148,444,4.0,Walking,69.0,28.0,19.0,WP042-03
+Tbilisi,Georgia,Europe,41.7151,44.8271,Food & Local Life,Culture,Spring,4,146,584,5.0,Walking,40.0,26.0,15.0,WP042-04
+Tbilisi,Georgia,Europe,41.7151,44.8271,Family Holiday,Culture,Spring,10,193,1930,4.7,Walking,82.0,42.0,12.0,WP042-05
+Tbilisi,Georgia,Europe,41.7151,44.8271,Relaxation,Culture,Spring,10,256,2560,3.6,Public Transport,104.0,41.0,17.0,WP042-06
+Yerevan,Armenia,Europe,40.1792,44.4991,Budget Backpacking,Culture,Spring,5,254,1270,4.9,Taxi/Rideshare,132.0,58.0,19.0,WP043-01
+Yerevan,Armenia,Europe,40.1792,44.4991,Culture & History,Culture,Spring,4,261,1044,4.4,Taxi/Rideshare,107.0,48.0,17.0,WP043-02
+Yerevan,Armenia,Europe,40.1792,44.4991,Nature & Adventure,Culture,Spring,4,245,980,4.5,Walking,128.0,40.0,35.0,WP043-03
+Yerevan,Armenia,Europe,40.1792,44.4991,Food & Local Life,Culture,Spring,10,231,2310,4.8,Public Transport,61.0,47.0,25.0,WP043-04
+Yerevan,Armenia,Europe,40.1792,44.4991,Family Holiday,Culture,Spring,10,292,2920,4.4,Taxi/Rideshare,129.0,54.0,33.0,WP043-05
+Yerevan,Armenia,Europe,40.1792,44.4991,Relaxation,Culture,Spring,8,318,2544,4.9,Rental Car,103.0,72.0,29.0,WP043-06
+Baku,Azerbaijan,Europe,40.4093,49.8671,Budget Backpacking,Urban & Culture,Spring,8,170,1360,3.5,Rental Car,64.0,31.0,14.0,WP044-01
+Baku,Azerbaijan,Europe,40.4093,49.8671,Culture & History,Urban & Culture,Spring,5,179,895,4.7,Bus,84.0,42.0,26.0,WP044-02
+Baku,Azerbaijan,Europe,40.4093,49.8671,Nature & Adventure,Urban & Culture,Spring,10,177,1770,4.0,Taxi/Rideshare,50.0,27.0,11.0,WP044-03
+Baku,Azerbaijan,Europe,40.4093,49.8671,Food & Local Life,Urban & Culture,Spring,4,218,872,3.6,Public Transport,73.0,37.0,24.0,WP044-04
+Baku,Azerbaijan,Europe,40.4093,49.8671,Family Holiday,Urban & Culture,Spring,10,232,2320,4.8,Bus,123.0,50.0,16.0,WP044-05
+Baku,Azerbaijan,Europe,40.4093,49.8671,Relaxation,Urban & Culture,Spring,6,236,1416,4.9,Rental Car,94.0,38.0,12.0,WP044-06
+Athens,Greece,Europe,37.9838,23.7275,Budget Backpacking,History,Spring,6,209,1254,4.9,Train,89.0,26.0,16.0,WP045-01
+Athens,Greece,Europe,37.9838,23.7275,Culture & History,History,Spring,5,205,1025,4.2,Public Transport,78.0,48.0,25.0,WP045-02
+Athens,Greece,Europe,37.9838,23.7275,Nature & Adventure,History,Spring,5,196,980,3.5,Public Transport,83.0,28.0,21.0,WP045-03
+Athens,Greece,Europe,37.9838,23.7275,Food & Local Life,History,Spring,6,154,924,4.2,Taxi/Rideshare,51.0,38.0,18.0,WP045-04
+Athens,Greece,Europe,37.9838,23.7275,Family Holiday,History,Spring,4,200,800,4.9,Rental Car,72.0,50.0,21.0,WP045-05
+Athens,Greece,Europe,37.9838,23.7275,Relaxation,History,Spring,10,246,2460,3.6,Taxi/Rideshare,99.0,46.0,13.0,WP045-06
+Santorini,Greece,Europe,36.3932,25.4615,Budget Backpacking,Beach,Summer,7,207,1449,4.1,Taxi/Rideshare,107.0,29.0,30.0,WP046-01
+Santorini,Greece,Europe,36.3932,25.4615,Culture & History,Beach,Summer,4,187,748,4.0,Taxi/Rideshare,88.0,30.0,16.0,WP046-02
+Santorini,Greece,Europe,36.3932,25.4615,Nature & Adventure,Beach,Summer,7,212,1484,4.1,Taxi/Rideshare,72.0,48.0,18.0,WP046-03
+Santorini,Greece,Europe,36.3932,25.4615,Food & Local Life,Beach,Summer,6,161,966,4.3,Walking,82.0,32.0,18.0,WP046-04
+Santorini,Greece,Europe,36.3932,25.4615,Family Holiday,Beach,Summer,8,220,1760,4.6,Taxi/Rideshare,93.0,47.0,24.0,WP046-05
+Santorini,Greece,Europe,36.3932,25.4615,Relaxation,Beach,Summer,7,223,1561,4.3,Taxi/Rideshare,108.0,38.0,29.0,WP046-06
+Rome,Italy,Europe,41.9028,12.4964,Budget Backpacking,History,Spring,7,111,777,4.8,Public Transport,34.0,20.0,10.0,WP047-01
+Rome,Italy,Europe,41.9028,12.4964,Culture & History,History,Spring,8,159,1272,3.7,Taxi/Rideshare,77.0,38.0,22.0,WP047-02
+Rome,Italy,Europe,41.9028,12.4964,Nature & Adventure,History,Spring,8,114,912,3.6,Train,48.0,28.0,11.0,WP047-03
+Rome,Italy,Europe,41.9028,12.4964,Food & Local Life,History,Spring,5,155,775,4.8,Rental Car,81.0,25.0,13.0,WP047-04
+Rome,Italy,Europe,41.9028,12.4964,Family Holiday,History,Spring,7,180,1260,4.1,Train,60.0,29.0,26.0,WP047-05
+Rome,Italy,Europe,41.9028,12.4964,Relaxation,History,Spring,10,200,2000,3.8,Train,91.0,37.0,20.0,WP047-06
+Venice,Italy,Europe,45.4408,12.3155,Budget Backpacking,Culture,Spring,5,223,1115,3.7,Walking,92.0,53.0,20.0,WP048-01
+Venice,Italy,Europe,45.4408,12.3155,Culture & History,Culture,Spring,10,232,2320,4.7,Bus,61.0,57.0,13.0,WP048-02
+Venice,Italy,Europe,45.4408,12.3155,Nature & Adventure,Culture,Spring,8,244,1952,3.9,Rental Car,77.0,56.0,19.0,WP048-03
+Venice,Italy,Europe,45.4408,12.3155,Food & Local Life,Culture,Spring,4,222,888,3.7,Walking,95.0,34.0,26.0,WP048-04
+Venice,Italy,Europe,45.4408,12.3155,Family Holiday,Culture,Spring,8,256,2048,3.8,Public Transport,96.0,55.0,15.0,WP048-05
+Venice,Italy,Europe,45.4408,12.3155,Relaxation,Culture,Spring,3,260,780,4.9,Train,97.0,63.0,36.0,WP048-06
+Florence,Italy,Europe,43.7696,11.2558,Budget Backpacking,Art,Spring,10,192,1920,4.8,Bus,64.0,25.0,24.0,WP049-01
+Florence,Italy,Europe,43.7696,11.2558,Culture & History,Art,Spring,7,196,1372,4.5,Public Transport,103.0,28.0,27.0,WP049-02
+Florence,Italy,Europe,43.7696,11.2558,Nature & Adventure,Art,Spring,3,189,567,4.9,Rental Car,92.0,27.0,24.0,WP049-03
+Florence,Italy,Europe,43.7696,11.2558,Food & Local Life,Art,Spring,3,204,612,3.4,Taxi/Rideshare,88.0,49.0,17.0,WP049-04
+Florence,Italy,Europe,43.7696,11.2558,Family Holiday,Art,Spring,8,265,2120,4.2,Rental Car,137.0,36.0,27.0,WP049-05
+Florence,Italy,Europe,43.7696,11.2558,Relaxation,Art,Spring,4,256,1024,4.6,Bus,76.0,46.0,19.0,WP049-06
+Milan,Italy,Europe,45.4642,9.19,Budget Backpacking,Urban & Culture,Spring,8,93,744,3.9,Bus,39.0,20.0,6.0,WP050-01
+Milan,Italy,Europe,45.4642,9.19,Culture & History,Urban & Culture,Spring,10,143,1430,4.0,Bus,39.0,30.0,10.0,WP050-02
+Milan,Italy,Europe,45.4642,9.19,Nature & Adventure,Urban & Culture,Spring,6,109,654,3.9,Train,27.0,19.0,10.0,WP050-03
+Milan,Italy,Europe,45.4642,9.19,Food & Local Life,Urban & Culture,Spring,5,126,630,3.9,Walking,53.0,19.0,11.0,WP050-04
+Milan,Italy,Europe,45.4642,9.19,Family Holiday,Urban & Culture,Spring,3,162,486,4.4,Rental Car,55.0,28.0,16.0,WP050-05
+Milan,Italy,Europe,45.4642,9.19,Relaxation,Urban & Culture,Spring,8,186,1488,3.6,Bus,67.0,28.0,27.0,WP050-06
+Paris,France,Europe,48.8566,2.3522,Budget Backpacking,Art,Spring,6,186,1116,4.5,Taxi/Rideshare,67.0,39.0,26.0,WP051-01
+Paris,France,Europe,48.8566,2.3522,Culture & History,Art,Spring,10,194,1940,3.8,Taxi/Rideshare,99.0,25.0,18.0,WP051-02
+Paris,France,Europe,48.8566,2.3522,Nature & Adventure,Art,Spring,3,213,639,4.8,Public Transport,57.0,41.0,21.0,WP051-03
+Paris,France,Europe,48.8566,2.3522,Food & Local Life,Art,Spring,4,186,744,3.9,Taxi/Rideshare,71.0,39.0,23.0,WP051-04
+Paris,France,Europe,48.8566,2.3522,Family Holiday,Art,Spring,3,269,807,4.7,Rental Car,133.0,48.0,27.0,WP051-05
+Paris,France,Europe,48.8566,2.3522,Relaxation,Art,Spring,7,280,1960,3.5,Rental Car,127.0,45.0,15.0,WP051-06
+Nice,France,Europe,43.7102,7.262,Budget Backpacking,Beach,Summer,7,162,1134,3.5,Rental Car,57.0,21.0,24.0,WP052-01
+Nice,France,Europe,43.7102,7.262,Culture & History,Beach,Summer,6,143,858,3.4,Rental Car,43.0,20.0,16.0,WP052-02
+Nice,France,Europe,43.7102,7.262,Nature & Adventure,Beach,Summer,5,188,940,4.9,Rental Car,72.0,45.0,16.0,WP052-03
+Nice,France,Europe,43.7102,7.262,Food & Local Life,Beach,Summer,8,145,1160,4.8,Taxi/Rideshare,42.0,34.0,9.0,WP052-04
+Nice,France,Europe,43.7102,7.262,Family Holiday,Beach,Summer,7,225,1575,3.6,Train,113.0,49.0,33.0,WP052-05
+Nice,France,Europe,43.7102,7.262,Relaxation,Beach,Summer,8,249,1992,4.5,Rental Car,102.0,57.0,19.0,WP052-06
+Lyon,France,Europe,45.764,4.8357,Budget Backpacking,Food,Spring,5,152,760,3.7,Walking,73.0,19.0,18.0,WP053-01
+Lyon,France,Europe,45.764,4.8357,Culture & History,Food,Spring,4,135,540,3.7,Public Transport,58.0,24.0,16.0,WP053-02
+Lyon,France,Europe,45.764,4.8357,Nature & Adventure,Food,Spring,4,139,556,4.5,Rental Car,53.0,26.0,17.0,WP053-03
+Lyon,France,Europe,45.764,4.8357,Food & Local Life,Food,Spring,4,140,560,4.2,Bus,45.0,33.0,15.0,WP053-04
+Lyon,France,Europe,45.764,4.8357,Family Holiday,Food,Spring,4,214,856,3.9,Train,117.0,40.0,20.0,WP053-05
+Lyon,France,Europe,45.764,4.8357,Relaxation,Food,Spring,3,223,669,4.2,Taxi/Rideshare,115.0,53.0,25.0,WP053-06
+Barcelona,Spain,Europe,41.3874,2.1686,Budget Backpacking,Culture,Spring,3,217,651,5.0,Walking,98.0,48.0,18.0,WP054-01
+Barcelona,Spain,Europe,41.3874,2.1686,Culture & History,Culture,Spring,6,207,1242,3.7,Rental Car,63.0,39.0,15.0,WP054-02
+Barcelona,Spain,Europe,41.3874,2.1686,Nature & Adventure,Culture,Spring,5,182,910,4.8,Train,89.0,43.0,19.0,WP054-03
+Barcelona,Spain,Europe,41.3874,2.1686,Food & Local Life,Culture,Spring,7,207,1449,4.3,Rental Car,67.0,30.0,24.0,WP054-04
+Barcelona,Spain,Europe,41.3874,2.1686,Family Holiday,Culture,Spring,10,251,2510,4.1,Taxi/Rideshare,117.0,36.0,19.0,WP054-05
+Barcelona,Spain,Europe,41.3874,2.1686,Relaxation,Culture,Spring,10,214,2140,3.6,Taxi/Rideshare,100.0,41.0,21.0,WP054-06
+Madrid,Spain,Europe,40.4168,-3.7038,Budget Backpacking,Art,Spring,3,168,504,3.7,Train,90.0,23.0,25.0,WP055-01
+Madrid,Spain,Europe,40.4168,-3.7038,Culture & History,Art,Spring,4,191,764,4.4,Walking,59.0,46.0,20.0,WP055-02
+Madrid,Spain,Europe,40.4168,-3.7038,Nature & Adventure,Art,Spring,6,166,996,4.1,Walking,59.0,26.0,17.0,WP055-03
+Madrid,Spain,Europe,40.4168,-3.7038,Food & Local Life,Art,Spring,6,193,1158,3.5,Walking,75.0,44.0,27.0,WP055-04
+Madrid,Spain,Europe,40.4168,-3.7038,Family Holiday,Art,Spring,5,217,1085,4.0,Taxi/Rideshare,111.0,47.0,11.0,WP055-05
+Madrid,Spain,Europe,40.4168,-3.7038,Relaxation,Art,Spring,5,238,1190,3.6,Bus,76.0,46.0,18.0,WP055-06
+Seville,Spain,Europe,37.3891,-5.9845,Budget Backpacking,History,Spring,5,228,1140,4.5,Rental Car,123.0,46.0,23.0,WP056-01
+Seville,Spain,Europe,37.3891,-5.9845,Culture & History,History,Spring,8,206,1648,4.6,Train,60.0,39.0,14.0,WP056-02
+Seville,Spain,Europe,37.3891,-5.9845,Nature & Adventure,History,Spring,7,192,1344,3.5,Public Transport,102.0,40.0,24.0,WP056-03
+Seville,Spain,Europe,37.3891,-5.9845,Food & Local Life,History,Spring,4,237,948,4.7,Train,64.0,33.0,17.0,WP056-04
+Seville,Spain,Europe,37.3891,-5.9845,Family Holiday,History,Spring,5,283,1415,3.5,Walking,127.0,57.0,28.0,WP056-05
+Seville,Spain,Europe,37.3891,-5.9845,Relaxation,History,Spring,3,302,906,3.4,Taxi/Rideshare,113.0,37.0,37.0,WP056-06
+Lisbon,Portugal,Europe,38.7223,-9.1393,Budget Backpacking,Culture,Spring,3,218,654,4.3,Walking,99.0,49.0,31.0,WP057-01
+Lisbon,Portugal,Europe,38.7223,-9.1393,Culture & History,Culture,Spring,3,195,585,4.3,Train,60.0,37.0,26.0,WP057-02
+Lisbon,Portugal,Europe,38.7223,-9.1393,Nature & Adventure,Culture,Spring,10,216,2160,4.1,Bus,116.0,39.0,16.0,WP057-03
+Lisbon,Portugal,Europe,38.7223,-9.1393,Food & Local Life,Culture,Spring,5,210,1050,4.5,Public Transport,94.0,49.0,26.0,WP057-04
+Lisbon,Portugal,Europe,38.7223,-9.1393,Family Holiday,Culture,Spring,6,233,1398,4.1,Taxi/Rideshare,92.0,47.0,28.0,WP057-05
+Lisbon,Portugal,Europe,38.7223,-9.1393,Relaxation,Culture,Spring,6,247,1482,4.8,Walking,120.0,48.0,34.0,WP057-06
+Porto,Portugal,Europe,41.1579,-8.6291,Budget Backpacking,Food,Spring,4,74,296,3.7,Walking,38.0,13.0,4.0,WP058-01
+Porto,Portugal,Europe,41.1579,-8.6291,Culture & History,Food,Spring,8,78,624,4.8,Taxi/Rideshare,33.0,10.0,11.0,WP058-02
+Porto,Portugal,Europe,41.1579,-8.6291,Nature & Adventure,Food,Spring,3,109,327,4.8,Taxi/Rideshare,32.0,25.0,14.0,WP058-03
+Porto,Portugal,Europe,41.1579,-8.6291,Food & Local Life,Food,Spring,5,78,390,3.6,Train,33.0,18.0,9.0,WP058-04
+Porto,Portugal,Europe,41.1579,-8.6291,Family Holiday,Food,Spring,6,151,906,4.5,Train,74.0,32.0,9.0,WP058-05
+Porto,Portugal,Europe,41.1579,-8.6291,Relaxation,Food,Spring,3,168,504,3.5,Train,84.0,28.0,21.0,WP058-06
+London,United Kingdom,Europe,51.5072,-0.1276,Budget Backpacking,Urban & Culture,Summer,10,247,2470,3.9,Walking,82.0,62.0,24.0,WP059-01
+London,United Kingdom,Europe,51.5072,-0.1276,Culture & History,Urban & Culture,Summer,7,242,1694,4.8,Rental Car,74.0,47.0,21.0,WP059-02
+London,United Kingdom,Europe,51.5072,-0.1276,Nature & Adventure,Urban & Culture,Summer,10,234,2340,3.8,Public Transport,64.0,33.0,28.0,WP059-03
+London,United Kingdom,Europe,51.5072,-0.1276,Food & Local Life,Urban & Culture,Summer,8,216,1728,4.0,Bus,61.0,26.0,17.0,WP059-04
+London,United Kingdom,Europe,51.5072,-0.1276,Family Holiday,Urban & Culture,Summer,10,283,2830,3.8,Train,78.0,50.0,30.0,WP059-05
+London,United Kingdom,Europe,51.5072,-0.1276,Relaxation,Urban & Culture,Summer,6,317,1902,3.6,Public Transport,113.0,42.0,35.0,WP059-06
+Edinburgh,United Kingdom,Europe,55.9533,-3.1883,Budget Backpacking,History,Summer,3,177,531,3.8,Rental Car,86.0,38.0,19.0,WP060-01
+Edinburgh,United Kingdom,Europe,55.9533,-3.1883,Culture & History,History,Summer,7,159,1113,4.2,Walking,58.0,22.0,13.0,WP060-02
+Edinburgh,United Kingdom,Europe,55.9533,-3.1883,Nature & Adventure,History,Summer,4,191,764,3.5,Rental Car,64.0,30.0,24.0,WP060-03
+Edinburgh,United Kingdom,Europe,55.9533,-3.1883,Food & Local Life,History,Summer,5,174,870,4.8,Walking,76.0,34.0,12.0,WP060-04
+Edinburgh,United Kingdom,Europe,55.9533,-3.1883,Family Holiday,History,Summer,4,181,724,3.9,Rental Car,63.0,36.0,24.0,WP060-05
+Edinburgh,United Kingdom,Europe,55.9533,-3.1883,Relaxation,History,Summer,6,225,1350,3.9,Walking,122.0,31.0,18.0,WP060-06
+Dublin,Ireland,Europe,53.3498,-6.2603,Budget Backpacking,Culture,Summer,6,247,1482,4.0,Rental Car,134.0,39.0,30.0,WP061-01
+Dublin,Ireland,Europe,53.3498,-6.2603,Culture & History,Culture,Summer,7,284,1988,4.7,Bus,103.0,64.0,25.0,WP061-02
+Dublin,Ireland,Europe,53.3498,-6.2603,Nature & Adventure,Culture,Summer,7,236,1652,3.8,Taxi/Rideshare,72.0,52.0,12.0,WP061-03
+Dublin,Ireland,Europe,53.3498,-6.2603,Food & Local Life,Culture,Summer,8,281,2248,3.8,Bus,140.0,36.0,38.0,WP061-04
+Dublin,Ireland,Europe,53.3498,-6.2603,Family Holiday,Culture,Summer,8,314,2512,4.2,Walking,107.0,48.0,21.0,WP061-05
+Dublin,Ireland,Europe,53.3498,-6.2603,Relaxation,Culture,Summer,10,331,3310,4.1,Rental Car,181.0,60.0,30.0,WP061-06
+Amsterdam,Netherlands,Europe,52.3676,4.9041,Budget Backpacking,Culture,Spring,7,227,1589,3.6,Bus,105.0,51.0,25.0,WP062-01
+Amsterdam,Netherlands,Europe,52.3676,4.9041,Culture & History,Culture,Spring,3,184,552,4.7,Walking,83.0,26.0,20.0,WP062-02
+Amsterdam,Netherlands,Europe,52.3676,4.9041,Nature & Adventure,Culture,Spring,10,225,2250,4.0,Rental Car,63.0,30.0,16.0,WP062-03
+Amsterdam,Netherlands,Europe,52.3676,4.9041,Food & Local Life,Culture,Spring,6,202,1212,4.1,Rental Car,97.0,40.0,20.0,WP062-04
+Amsterdam,Netherlands,Europe,52.3676,4.9041,Family Holiday,Culture,Spring,3,258,774,4.2,Bus,97.0,63.0,16.0,WP062-05
+Amsterdam,Netherlands,Europe,52.3676,4.9041,Relaxation,Culture,Spring,5,247,1235,4.0,Rental Car,120.0,46.0,21.0,WP062-06
+Brussels,Belgium,Europe,50.8503,4.3517,Budget Backpacking,Food,Spring,8,125,1000,4.4,Bus,34.0,16.0,15.0,WP063-01
+Brussels,Belgium,Europe,50.8503,4.3517,Culture & History,Food,Spring,10,71,710,3.9,Public Transport,32.0,10.0,11.0,WP063-02
+Brussels,Belgium,Europe,50.8503,4.3517,Nature & Adventure,Food,Spring,7,100,700,3.7,Train,35.0,18.0,10.0,WP063-03
+Brussels,Belgium,Europe,50.8503,4.3517,Food & Local Life,Food,Spring,8,120,960,3.7,Walking,54.0,21.0,15.0,WP063-04
+Brussels,Belgium,Europe,50.8503,4.3517,Family Holiday,Food,Spring,6,134,804,4.3,Rental Car,34.0,20.0,10.0,WP063-05
+Brussels,Belgium,Europe,50.8503,4.3517,Relaxation,Food,Spring,7,132,924,3.6,Taxi/Rideshare,40.0,21.0,13.0,WP063-06
+Berlin,Germany,Europe,52.52,13.405,Budget Backpacking,History,Summer,7,174,1218,4.8,Bus,75.0,35.0,19.0,WP064-01
+Berlin,Germany,Europe,52.52,13.405,Culture & History,History,Summer,5,156,780,4.7,Taxi/Rideshare,47.0,32.0,20.0,WP064-02
+Berlin,Germany,Europe,52.52,13.405,Nature & Adventure,History,Summer,8,122,976,3.6,Public Transport,39.0,16.0,11.0,WP064-03
+Berlin,Germany,Europe,52.52,13.405,Food & Local Life,History,Summer,7,130,910,4.0,Taxi/Rideshare,38.0,22.0,9.0,WP064-04
+Berlin,Germany,Europe,52.52,13.405,Family Holiday,History,Summer,7,174,1218,3.7,Bus,51.0,28.0,17.0,WP064-05
+Berlin,Germany,Europe,52.52,13.405,Relaxation,History,Summer,10,173,1730,3.9,Public Transport,68.0,25.0,15.0,WP064-06
+Munich,Germany,Europe,48.1351,11.582,Budget Backpacking,Nature,Summer,8,252,2016,4.2,Walking,100.0,54.0,24.0,WP065-01
+Munich,Germany,Europe,48.1351,11.582,Culture & History,Nature,Summer,3,209,627,4.3,Train,71.0,33.0,22.0,WP065-02
+Munich,Germany,Europe,48.1351,11.582,Nature & Adventure,Nature,Summer,10,209,2090,4.2,Walking,101.0,39.0,21.0,WP065-03
+Munich,Germany,Europe,48.1351,11.582,Food & Local Life,Nature,Summer,5,202,1010,4.7,Bus,83.0,44.0,25.0,WP065-04
+Munich,Germany,Europe,48.1351,11.582,Family Holiday,Nature,Summer,7,284,1988,3.8,Rental Car,80.0,65.0,36.0,WP065-05
+Munich,Germany,Europe,48.1351,11.582,Relaxation,Nature,Summer,10,281,2810,5.0,Rental Car,92.0,65.0,16.0,WP065-06
+Vienna,Austria,Europe,48.2082,16.3738,Budget Backpacking,Art,Spring,4,105,420,4.6,Taxi/Rideshare,48.0,24.0,12.0,WP066-01
+Vienna,Austria,Europe,48.2082,16.3738,Culture & History,Art,Spring,4,129,516,4.3,Train,64.0,29.0,14.0,WP066-02
+Vienna,Austria,Europe,48.2082,16.3738,Nature & Adventure,Art,Spring,7,110,770,4.2,Bus,60.0,17.0,12.0,WP066-03
+Vienna,Austria,Europe,48.2082,16.3738,Food & Local Life,Art,Spring,8,140,1120,4.6,Train,75.0,31.0,20.0,WP066-04
+Vienna,Austria,Europe,48.2082,16.3738,Family Holiday,Art,Spring,10,150,1500,4.4,Walking,76.0,23.0,18.0,WP066-05
+Vienna,Austria,Europe,48.2082,16.3738,Relaxation,Art,Spring,10,161,1610,4.7,Rental Car,64.0,31.0,12.0,WP066-06
+Prague,Czechia,Europe,50.0755,14.4378,Budget Backpacking,History,Spring,6,199,1194,3.5,Public Transport,74.0,43.0,24.0,WP067-01
+Prague,Czechia,Europe,50.0755,14.4378,Culture & History,History,Spring,6,198,1188,4.8,Bus,84.0,46.0,27.0,WP067-02
+Prague,Czechia,Europe,50.0755,14.4378,Nature & Adventure,History,Spring,8,162,1296,4.9,Walking,73.0,27.0,9.0,WP067-03
+Prague,Czechia,Europe,50.0755,14.4378,Food & Local Life,History,Spring,4,201,804,4.9,Train,80.0,33.0,16.0,WP067-04
+Prague,Czechia,Europe,50.0755,14.4378,Family Holiday,History,Spring,7,207,1449,4.7,Bus,107.0,45.0,11.0,WP067-05
+Prague,Czechia,Europe,50.0755,14.4378,Relaxation,History,Spring,3,264,792,3.6,Train,101.0,32.0,38.0,WP067-06
+Budapest,Hungary,Europe,47.4979,19.0402,Budget Backpacking,Culture,Spring,8,112,896,4.0,Bus,31.0,19.0,7.0,WP068-01
+Budapest,Hungary,Europe,47.4979,19.0402,Culture & History,Culture,Spring,3,117,351,4.1,Bus,55.0,26.0,11.0,WP068-02
+Budapest,Hungary,Europe,47.4979,19.0402,Nature & Adventure,Culture,Spring,8,107,856,3.6,Train,42.0,15.0,8.0,WP068-03
+Budapest,Hungary,Europe,47.4979,19.0402,Food & Local Life,Culture,Spring,3,152,456,3.5,Bus,75.0,38.0,14.0,WP068-04
+Budapest,Hungary,Europe,47.4979,19.0402,Family Holiday,Culture,Spring,6,152,912,3.6,Rental Car,42.0,34.0,9.0,WP068-05
+Budapest,Hungary,Europe,47.4979,19.0402,Relaxation,Culture,Spring,5,198,990,3.7,Train,88.0,41.0,11.0,WP068-06
+Zurich,Switzerland,Europe,47.3769,8.5417,Budget Backpacking,Nature,Summer,7,190,1330,4.5,Rental Car,68.0,28.0,24.0,WP069-01
+Zurich,Switzerland,Europe,47.3769,8.5417,Culture & History,Nature,Summer,7,241,1687,4.5,Train,67.0,32.0,30.0,WP069-02
+Zurich,Switzerland,Europe,47.3769,8.5417,Nature & Adventure,Nature,Summer,5,238,1190,4.9,Bus,116.0,36.0,27.0,WP069-03
+Zurich,Switzerland,Europe,47.3769,8.5417,Food & Local Life,Nature,Summer,7,220,1540,4.4,Walking,95.0,49.0,26.0,WP069-04
+Zurich,Switzerland,Europe,47.3769,8.5417,Family Holiday,Nature,Summer,4,267,1068,4.3,Taxi/Rideshare,82.0,46.0,31.0,WP069-05
+Zurich,Switzerland,Europe,47.3769,8.5417,Relaxation,Nature,Summer,6,274,1644,4.1,Train,110.0,54.0,28.0,WP069-06
+Interlaken,Switzerland,Europe,46.6863,7.8632,Budget Backpacking,Nature,Summer,5,94,470,3.7,Taxi/Rideshare,35.0,18.0,6.0,WP070-01
+Interlaken,Switzerland,Europe,46.6863,7.8632,Culture & History,Nature,Summer,10,108,1080,3.6,Taxi/Rideshare,29.0,17.0,6.0,WP070-02
+Interlaken,Switzerland,Europe,46.6863,7.8632,Nature & Adventure,Nature,Summer,10,55,550,4.1,Bus,24.0,10.0,5.0,WP070-03
+Interlaken,Switzerland,Europe,46.6863,7.8632,Food & Local Life,Nature,Summer,3,99,297,4.5,Taxi/Rideshare,43.0,15.0,8.0,WP070-04
+Interlaken,Switzerland,Europe,46.6863,7.8632,Family Holiday,Nature,Summer,4,153,612,5.0,Train,63.0,26.0,17.0,WP070-05
+Interlaken,Switzerland,Europe,46.6863,7.8632,Relaxation,Nature,Summer,5,111,555,4.5,Walking,59.0,17.0,8.0,WP070-06
+Reykjavik,Iceland,Europe,64.1466,-21.9426,Budget Backpacking,Nature,Summer,6,170,1020,4.4,Public Transport,58.0,37.0,21.0,WP071-01
+Reykjavik,Iceland,Europe,64.1466,-21.9426,Culture & History,Nature,Summer,3,171,513,4.6,Walking,43.0,32.0,14.0,WP071-02
+Reykjavik,Iceland,Europe,64.1466,-21.9426,Nature & Adventure,Nature,Summer,4,189,756,4.1,Walking,92.0,29.0,26.0,WP071-03
+Reykjavik,Iceland,Europe,64.1466,-21.9426,Food & Local Life,Nature,Summer,5,159,795,4.7,Bus,65.0,25.0,23.0,WP071-04
+Reykjavik,Iceland,Europe,64.1466,-21.9426,Family Holiday,Nature,Summer,6,205,1230,4.2,Bus,55.0,48.0,14.0,WP071-05
+Reykjavik,Iceland,Europe,64.1466,-21.9426,Relaxation,Nature,Summer,5,231,1155,4.7,Taxi/Rideshare,104.0,31.0,29.0,WP071-06
+Oslo,Norway,Europe,59.9139,10.7522,Budget Backpacking,Nature,Summer,10,50,500,4.8,Train,15.0,8.0,7.0,WP072-01
+Oslo,Norway,Europe,59.9139,10.7522,Culture & History,Nature,Summer,10,67,670,3.6,Walking,32.0,12.0,6.0,WP072-02
+Oslo,Norway,Europe,59.9139,10.7522,Nature & Adventure,Nature,Summer,8,98,784,4.0,Public Transport,41.0,13.0,11.0,WP072-03
+Oslo,Norway,Europe,59.9139,10.7522,Food & Local Life,Nature,Summer,4,51,204,3.8,Taxi/Rideshare,28.0,12.0,4.0,WP072-04
+Oslo,Norway,Europe,59.9139,10.7522,Family Holiday,Nature,Summer,10,144,1440,3.9,Bus,50.0,28.0,7.0,WP072-05
+Oslo,Norway,Europe,59.9139,10.7522,Relaxation,Nature,Summer,5,125,625,4.3,Bus,59.0,19.0,11.0,WP072-06
+Stockholm,Sweden,Europe,59.3293,18.0686,Budget Backpacking,Culture,Summer,8,196,1568,4.9,Train,58.0,47.0,10.0,WP073-01
+Stockholm,Sweden,Europe,59.3293,18.0686,Culture & History,Culture,Summer,8,215,1720,4.8,Public Transport,115.0,26.0,25.0,WP073-02
+Stockholm,Sweden,Europe,59.3293,18.0686,Nature & Adventure,Culture,Summer,3,210,630,3.8,Train,79.0,51.0,31.0,WP073-03
+Stockholm,Sweden,Europe,59.3293,18.0686,Food & Local Life,Culture,Summer,8,189,1512,3.9,Public Transport,99.0,45.0,19.0,WP073-04
+Stockholm,Sweden,Europe,59.3293,18.0686,Family Holiday,Culture,Summer,6,258,1548,5.0,Public Transport,109.0,48.0,29.0,WP073-05
+Stockholm,Sweden,Europe,59.3293,18.0686,Relaxation,Culture,Summer,3,276,828,4.4,Public Transport,105.0,68.0,20.0,WP073-06
+Copenhagen,Denmark,Europe,55.6761,12.5683,Budget Backpacking,Culture,Summer,10,151,1510,4.1,Walking,53.0,27.0,11.0,WP074-01
+Copenhagen,Denmark,Europe,55.6761,12.5683,Culture & History,Culture,Summer,4,136,544,4.7,Taxi/Rideshare,38.0,18.0,13.0,WP074-02
+Copenhagen,Denmark,Europe,55.6761,12.5683,Nature & Adventure,Culture,Summer,6,151,906,3.7,Bus,81.0,22.0,12.0,WP074-03
+Copenhagen,Denmark,Europe,55.6761,12.5683,Food & Local Life,Culture,Summer,10,144,1440,3.7,Train,71.0,23.0,17.0,WP074-04
+Copenhagen,Denmark,Europe,55.6761,12.5683,Family Holiday,Culture,Summer,4,156,624,4.8,Bus,46.0,33.0,23.0,WP074-05
+Copenhagen,Denmark,Europe,55.6761,12.5683,Relaxation,Culture,Summer,7,216,1512,3.6,Bus,71.0,54.0,11.0,WP074-06
+Helsinki,Finland,Europe,60.1699,24.9384,Budget Backpacking,Culture,Summer,7,205,1435,4.6,Train,57.0,27.0,27.0,WP075-01
+Helsinki,Finland,Europe,60.1699,24.9384,Culture & History,Culture,Summer,3,163,489,3.6,Train,47.0,37.0,14.0,WP075-02
+Helsinki,Finland,Europe,60.1699,24.9384,Nature & Adventure,Culture,Summer,7,158,1106,4.4,Public Transport,41.0,20.0,22.0,WP075-03
+Helsinki,Finland,Europe,60.1699,24.9384,Food & Local Life,Culture,Summer,10,204,2040,3.7,Bus,58.0,49.0,11.0,WP075-04
+Helsinki,Finland,Europe,60.1699,24.9384,Family Holiday,Culture,Summer,10,243,2430,4.6,Rental Car,63.0,51.0,16.0,WP075-05
+Helsinki,Finland,Europe,60.1699,24.9384,Relaxation,Culture,Summer,4,230,920,3.9,Rental Car,118.0,29.0,26.0,WP075-06
+Warsaw,Poland,Europe,52.2297,21.0122,Budget Backpacking,History,Summer,6,144,864,4.0,Taxi/Rideshare,57.0,19.0,13.0,WP076-01
+Warsaw,Poland,Europe,52.2297,21.0122,Culture & History,History,Summer,4,160,640,4.4,Taxi/Rideshare,52.0,40.0,17.0,WP076-02
+Warsaw,Poland,Europe,52.2297,21.0122,Nature & Adventure,History,Summer,6,109,654,4.6,Bus,43.0,24.0,9.0,WP076-03
+Warsaw,Poland,Europe,52.2297,21.0122,Food & Local Life,History,Summer,5,171,855,4.0,Train,44.0,34.0,9.0,WP076-04
+Warsaw,Poland,Europe,52.2297,21.0122,Family Holiday,History,Summer,3,182,546,4.6,Rental Car,74.0,40.0,27.0,WP076-05
+Warsaw,Poland,Europe,52.2297,21.0122,Relaxation,History,Summer,3,182,546,3.8,Train,60.0,41.0,26.0,WP076-06
+Krakow,Poland,Europe,50.0647,19.945,Budget Backpacking,History,Summer,7,87,609,4.7,Rental Car,31.0,20.0,12.0,WP077-01
+Krakow,Poland,Europe,50.0647,19.945,Culture & History,History,Summer,4,81,324,4.3,Walking,37.0,19.0,4.0,WP077-02
+Krakow,Poland,Europe,50.0647,19.945,Nature & Adventure,History,Summer,7,104,728,4.2,Taxi/Rideshare,56.0,24.0,14.0,WP077-03
+Krakow,Poland,Europe,50.0647,19.945,Food & Local Life,History,Summer,7,122,854,3.9,Rental Car,32.0,16.0,13.0,WP077-04
+Krakow,Poland,Europe,50.0647,19.945,Family Holiday,History,Summer,7,101,707,4.1,Bus,53.0,15.0,6.0,WP077-05
+Krakow,Poland,Europe,50.0647,19.945,Relaxation,History,Summer,10,136,1360,4.7,Bus,36.0,19.0,16.0,WP077-06
+Dubrovnik,Croatia,Europe,42.6507,18.0944,Budget Backpacking,Beach,Summer,3,166,498,4.0,Walking,61.0,22.0,13.0,WP078-01
+Dubrovnik,Croatia,Europe,42.6507,18.0944,Culture & History,Beach,Summer,4,137,548,4.5,Rental Car,67.0,34.0,16.0,WP078-02
+Dubrovnik,Croatia,Europe,42.6507,18.0944,Nature & Adventure,Beach,Summer,8,142,1136,4.9,Walking,73.0,28.0,12.0,WP078-03
+Dubrovnik,Croatia,Europe,42.6507,18.0944,Food & Local Life,Beach,Summer,6,142,852,3.9,Walking,48.0,20.0,7.0,WP078-04
+Dubrovnik,Croatia,Europe,42.6507,18.0944,Family Holiday,Beach,Summer,10,210,2100,4.9,Taxi/Rideshare,55.0,42.0,30.0,WP078-05
+Dubrovnik,Croatia,Europe,42.6507,18.0944,Relaxation,Beach,Summer,8,203,1624,4.2,Rental Car,59.0,44.0,15.0,WP078-06
+Split,Croatia,Europe,43.5081,16.4402,Budget Backpacking,Beach,Summer,10,183,1830,4.5,Walking,86.0,30.0,9.0,WP079-01
+Split,Croatia,Europe,43.5081,16.4402,Culture & History,Beach,Summer,4,198,792,4.4,Bus,65.0,27.0,10.0,WP079-02
+Split,Croatia,Europe,43.5081,16.4402,Nature & Adventure,Beach,Summer,6,221,1326,4.5,Train,114.0,41.0,19.0,WP079-03
+Split,Croatia,Europe,43.5081,16.4402,Food & Local Life,Beach,Summer,3,220,660,4.6,Taxi/Rideshare,98.0,46.0,15.0,WP079-04
+Split,Croatia,Europe,43.5081,16.4402,Family Holiday,Beach,Summer,10,221,2210,4.7,Bus,57.0,34.0,13.0,WP079-05
+Split,Croatia,Europe,43.5081,16.4402,Relaxation,Beach,Summer,4,270,1080,4.7,Train,127.0,52.0,38.0,WP079-06
+Ljubljana,Slovenia,Europe,46.0569,14.5058,Budget Backpacking,Nature,Summer,7,111,777,5.0,Rental Car,51.0,20.0,13.0,WP080-01
+Ljubljana,Slovenia,Europe,46.0569,14.5058,Culture & History,Nature,Summer,4,123,492,3.6,Bus,38.0,18.0,15.0,WP080-02
+Ljubljana,Slovenia,Europe,46.0569,14.5058,Nature & Adventure,Nature,Summer,8,101,808,3.9,Train,28.0,17.0,11.0,WP080-03
+Ljubljana,Slovenia,Europe,46.0569,14.5058,Food & Local Life,Nature,Summer,4,130,520,3.6,Public Transport,49.0,21.0,15.0,WP080-04
+Ljubljana,Slovenia,Europe,46.0569,14.5058,Family Holiday,Nature,Summer,4,169,676,3.6,Train,51.0,27.0,10.0,WP080-05
+Ljubljana,Slovenia,Europe,46.0569,14.5058,Relaxation,Nature,Summer,5,137,685,4.7,Rental Car,54.0,28.0,8.0,WP080-06
+Belgrade,Serbia,Europe,44.7866,20.4489,Budget Backpacking,Urban & Culture,Summer,4,233,932,4.0,Rental Car,84.0,41.0,18.0,WP081-01
+Belgrade,Serbia,Europe,44.7866,20.4489,Culture & History,Urban & Culture,Summer,5,243,1215,3.7,Bus,102.0,34.0,29.0,WP081-02
+Belgrade,Serbia,Europe,44.7866,20.4489,Nature & Adventure,Urban & Culture,Summer,3,196,588,4.4,Taxi/Rideshare,73.0,43.0,14.0,WP081-03
+Belgrade,Serbia,Europe,44.7866,20.4489,Food & Local Life,Urban & Culture,Summer,10,191,1910,4.0,Taxi/Rideshare,72.0,36.0,26.0,WP081-04
+Belgrade,Serbia,Europe,44.7866,20.4489,Family Holiday,Urban & Culture,Summer,7,284,1988,4.7,Rental Car,96.0,49.0,38.0,WP081-05
+Belgrade,Serbia,Europe,44.7866,20.4489,Relaxation,Urban & Culture,Summer,7,243,1701,4.3,Taxi/Rideshare,119.0,51.0,27.0,WP081-06
+Bucharest,Romania,Europe,44.4268,26.1025,Budget Backpacking,Urban & Culture,Summer,4,132,528,4.8,Train,71.0,30.0,8.0,WP082-01
+Bucharest,Romania,Europe,44.4268,26.1025,Culture & History,Urban & Culture,Summer,3,129,387,4.9,Rental Car,40.0,29.0,8.0,WP082-02
+Bucharest,Romania,Europe,44.4268,26.1025,Nature & Adventure,Urban & Culture,Summer,5,108,540,4.8,Public Transport,30.0,21.0,11.0,WP082-03
+Bucharest,Romania,Europe,44.4268,26.1025,Food & Local Life,Urban & Culture,Summer,7,110,770,4.1,Public Transport,53.0,22.0,11.0,WP082-04
+Bucharest,Romania,Europe,44.4268,26.1025,Family Holiday,Urban & Culture,Summer,3,168,504,4.0,Train,71.0,33.0,25.0,WP082-05
+Bucharest,Romania,Europe,44.4268,26.1025,Relaxation,Urban & Culture,Summer,3,142,426,4.2,Public Transport,69.0,33.0,20.0,WP082-06
+Sofia,Bulgaria,Europe,42.6977,23.3219,Budget Backpacking,Culture,Summer,6,183,1098,4.5,Taxi/Rideshare,79.0,23.0,14.0,WP083-01
+Sofia,Bulgaria,Europe,42.6977,23.3219,Culture & History,Culture,Summer,7,168,1176,4.4,Walking,62.0,29.0,23.0,WP083-02
+Sofia,Bulgaria,Europe,42.6977,23.3219,Nature & Adventure,Culture,Summer,3,180,540,4.6,Bus,93.0,22.0,24.0,WP083-03
+Sofia,Bulgaria,Europe,42.6977,23.3219,Food & Local Life,Culture,Summer,5,188,940,3.9,Rental Car,95.0,39.0,28.0,WP083-04
+Sofia,Bulgaria,Europe,42.6977,23.3219,Family Holiday,Culture,Summer,4,219,876,4.0,Walking,84.0,50.0,17.0,WP083-05
+Sofia,Bulgaria,Europe,42.6977,23.3219,Relaxation,Culture,Summer,7,258,1806,4.5,Train,99.0,62.0,23.0,WP083-06
+Cairo,Egypt,Africa,30.0444,31.2357,Budget Backpacking,History,Winter,10,186,1860,3.5,Train,50.0,39.0,17.0,WP084-01
+Cairo,Egypt,Africa,30.0444,31.2357,Culture & History,History,Winter,4,142,568,3.7,Train,71.0,22.0,14.0,WP084-02
+Cairo,Egypt,Africa,30.0444,31.2357,Nature & Adventure,History,Winter,8,185,1480,3.7,Bus,92.0,34.0,21.0,WP084-03
+Cairo,Egypt,Africa,30.0444,31.2357,Food & Local Life,History,Winter,8,154,1232,3.4,Bus,61.0,27.0,22.0,WP084-04
+Cairo,Egypt,Africa,30.0444,31.2357,Family Holiday,History,Winter,7,239,1673,4.2,Bus,71.0,56.0,30.0,WP084-05
+Cairo,Egypt,Africa,30.0444,31.2357,Relaxation,History,Winter,5,205,1025,3.4,Public Transport,61.0,40.0,30.0,WP084-06
+Luxor,Egypt,Africa,25.6872,32.6396,Budget Backpacking,History,Winter,8,99,792,3.7,Walking,37.0,12.0,13.0,WP085-01
+Luxor,Egypt,Africa,25.6872,32.6396,Culture & History,History,Winter,6,72,432,4.8,Walking,22.0,16.0,5.0,WP085-02
+Luxor,Egypt,Africa,25.6872,32.6396,Nature & Adventure,History,Winter,8,110,880,4.9,Walking,37.0,26.0,15.0,WP085-03
+Luxor,Egypt,Africa,25.6872,32.6396,Food & Local Life,History,Winter,5,129,645,3.7,Bus,58.0,29.0,12.0,WP085-04
+Luxor,Egypt,Africa,25.6872,32.6396,Family Holiday,History,Winter,3,124,372,4.2,Walking,67.0,28.0,13.0,WP085-05
+Luxor,Egypt,Africa,25.6872,32.6396,Relaxation,History,Winter,5,162,810,4.4,Rental Car,44.0,40.0,18.0,WP085-06
+Marrakech,Morocco,Africa,31.6295,-7.9811,Budget Backpacking,Culture,Spring,8,118,944,4.6,Walking,40.0,16.0,15.0,WP086-01
+Marrakech,Morocco,Africa,31.6295,-7.9811,Culture & History,Culture,Spring,10,92,920,4.8,Taxi/Rideshare,34.0,15.0,6.0,WP086-02
+Marrakech,Morocco,Africa,31.6295,-7.9811,Nature & Adventure,Culture,Spring,8,88,704,4.2,Bus,29.0,15.0,8.0,WP086-03
+Marrakech,Morocco,Africa,31.6295,-7.9811,Food & Local Life,Culture,Spring,7,89,623,4.6,Taxi/Rideshare,44.0,15.0,11.0,WP086-04
+Marrakech,Morocco,Africa,31.6295,-7.9811,Family Holiday,Culture,Spring,8,185,1480,4.0,Bus,93.0,42.0,25.0,WP086-05
+Marrakech,Morocco,Africa,31.6295,-7.9811,Relaxation,Culture,Spring,5,163,815,3.6,Train,77.0,35.0,17.0,WP086-06
+Casablanca,Morocco,Africa,33.5731,-7.5898,Budget Backpacking,Urban & Culture,Spring,8,103,824,3.5,Bus,33.0,24.0,9.0,WP087-01
+Casablanca,Morocco,Africa,33.5731,-7.5898,Culture & History,Urban & Culture,Spring,5,103,515,3.8,Bus,40.0,14.0,6.0,WP087-02
+Casablanca,Morocco,Africa,33.5731,-7.5898,Nature & Adventure,Urban & Culture,Spring,6,70,420,4.7,Taxi/Rideshare,20.0,15.0,7.0,WP087-03
+Casablanca,Morocco,Africa,33.5731,-7.5898,Food & Local Life,Urban & Culture,Spring,3,113,339,4.7,Train,33.0,17.0,10.0,WP087-04
+Casablanca,Morocco,Africa,33.5731,-7.5898,Family Holiday,Urban & Culture,Spring,4,159,636,3.9,Walking,48.0,21.0,13.0,WP087-05
+Casablanca,Morocco,Africa,33.5731,-7.5898,Relaxation,Urban & Culture,Spring,5,138,690,4.4,Public Transport,53.0,20.0,18.0,WP087-06
+Fes,Morocco,Africa,34.0181,-5.0078,Budget Backpacking,History,Spring,10,117,1170,4.5,Public Transport,34.0,21.0,11.0,WP088-01
+Fes,Morocco,Africa,34.0181,-5.0078,Culture & History,History,Spring,6,109,654,4.0,Public Transport,45.0,23.0,16.0,WP088-02
+Fes,Morocco,Africa,34.0181,-5.0078,Nature & Adventure,History,Spring,10,96,960,4.6,Train,25.0,12.0,12.0,WP088-03
+Fes,Morocco,Africa,34.0181,-5.0078,Food & Local Life,History,Spring,8,83,664,4.7,Bus,24.0,14.0,9.0,WP088-04
+Fes,Morocco,Africa,34.0181,-5.0078,Family Holiday,History,Spring,3,116,348,4.6,Bus,62.0,21.0,12.0,WP088-05
+Fes,Morocco,Africa,34.0181,-5.0078,Relaxation,History,Spring,6,153,918,4.7,Train,54.0,36.0,13.0,WP088-06
+Cape Town,South Africa,Africa,-33.9249,18.4241,Budget Backpacking,Nature,Summer,10,84,840,4.1,Train,27.0,21.0,6.0,WP089-01
+Cape Town,South Africa,Africa,-33.9249,18.4241,Culture & History,Nature,Summer,7,65,455,4.3,Public Transport,23.0,13.0,4.0,WP089-02
+Cape Town,South Africa,Africa,-33.9249,18.4241,Nature & Adventure,Nature,Summer,10,95,950,4.3,Public Transport,41.0,12.0,6.0,WP089-03
+Cape Town,South Africa,Africa,-33.9249,18.4241,Food & Local Life,Nature,Summer,3,65,195,4.5,Rental Car,25.0,9.0,5.0,WP089-04
+Cape Town,South Africa,Africa,-33.9249,18.4241,Family Holiday,Nature,Summer,4,122,488,4.5,Walking,31.0,21.0,7.0,WP089-05
+Cape Town,South Africa,Africa,-33.9249,18.4241,Relaxation,Nature,Summer,7,152,1064,4.4,Train,57.0,36.0,15.0,WP089-06
+Johannesburg,South Africa,Africa,-26.2041,28.0473,Budget Backpacking,Urban & Culture,Spring,3,81,243,4.6,Rental Car,25.0,12.0,6.0,WP090-01
+Johannesburg,South Africa,Africa,-26.2041,28.0473,Culture & History,Urban & Culture,Spring,5,70,350,4.5,Bus,21.0,13.0,10.0,WP090-02
+Johannesburg,South Africa,Africa,-26.2041,28.0473,Nature & Adventure,Urban & Culture,Spring,5,106,530,3.8,Public Transport,48.0,25.0,14.0,WP090-03
+Johannesburg,South Africa,Africa,-26.2041,28.0473,Food & Local Life,Urban & Culture,Spring,4,108,432,4.8,Taxi/Rideshare,29.0,23.0,15.0,WP090-04
+Johannesburg,South Africa,Africa,-26.2041,28.0473,Family Holiday,Urban & Culture,Spring,6,114,684,4.9,Bus,38.0,14.0,15.0,WP090-05
+Johannesburg,South Africa,Africa,-26.2041,28.0473,Relaxation,Urban & Culture,Spring,10,105,1050,3.8,Walking,36.0,23.0,6.0,WP090-06
+Nairobi,Kenya,Africa,-1.2921,36.8219,Budget Backpacking,Nature,Summer,10,27,270,3.7,Walking,15.0,8.0,4.0,WP091-01
+Nairobi,Kenya,Africa,-1.2921,36.8219,Culture & History,Nature,Summer,8,60,480,3.6,Bus,18.0,10.0,9.0,WP091-02
+Nairobi,Kenya,Africa,-1.2921,36.8219,Nature & Adventure,Nature,Summer,10,60,600,4.1,Rental Car,29.0,12.0,8.0,WP091-03
+Nairobi,Kenya,Africa,-1.2921,36.8219,Food & Local Life,Nature,Summer,4,40,160,4.5,Public Transport,22.0,9.0,4.0,WP091-04
+Nairobi,Kenya,Africa,-1.2921,36.8219,Family Holiday,Nature,Summer,10,127,1270,4.4,Rental Car,39.0,22.0,11.0,WP091-05
+Nairobi,Kenya,Africa,-1.2921,36.8219,Relaxation,Nature,Summer,10,84,840,4.5,Walking,46.0,12.0,12.0,WP091-06
+Mombasa,Kenya,Africa,-4.0435,39.6682,Budget Backpacking,Beach,Summer,3,176,528,3.5,Walking,61.0,37.0,21.0,WP092-01
+Mombasa,Kenya,Africa,-4.0435,39.6682,Culture & History,Beach,Summer,8,148,1184,4.7,Taxi/Rideshare,60.0,31.0,9.0,WP092-02
+Mombasa,Kenya,Africa,-4.0435,39.6682,Nature & Adventure,Beach,Summer,6,151,906,3.9,Walking,67.0,21.0,20.0,WP092-03
+Mombasa,Kenya,Africa,-4.0435,39.6682,Food & Local Life,Beach,Summer,3,126,378,4.4,Train,51.0,23.0,13.0,WP092-04
+Mombasa,Kenya,Africa,-4.0435,39.6682,Family Holiday,Beach,Summer,3,181,543,4.5,Bus,58.0,45.0,10.0,WP092-05
+Mombasa,Kenya,Africa,-4.0435,39.6682,Relaxation,Beach,Summer,7,203,1421,4.4,Rental Car,101.0,26.0,19.0,WP092-06
+Zanzibar City,Tanzania,Africa,-6.1659,39.2026,Budget Backpacking,Beach,Winter,6,228,1368,3.9,Rental Car,108.0,28.0,21.0,WP093-01
+Zanzibar City,Tanzania,Africa,-6.1659,39.2026,Culture & History,Beach,Winter,7,169,1183,4.2,Public Transport,82.0,41.0,19.0,WP093-02
+Zanzibar City,Tanzania,Africa,-6.1659,39.2026,Nature & Adventure,Beach,Winter,7,230,1610,3.7,Walking,89.0,38.0,30.0,WP093-03
+Zanzibar City,Tanzania,Africa,-6.1659,39.2026,Food & Local Life,Beach,Winter,10,193,1930,4.1,Taxi/Rideshare,93.0,38.0,23.0,WP093-04
+Zanzibar City,Tanzania,Africa,-6.1659,39.2026,Family Holiday,Beach,Winter,8,251,2008,4.1,Public Transport,120.0,37.0,21.0,WP093-05
+Zanzibar City,Tanzania,Africa,-6.1659,39.2026,Relaxation,Beach,Winter,7,257,1799,4.2,Walking,72.0,61.0,26.0,WP093-06
+Arusha,Tanzania,Africa,-3.3869,36.683,Budget Backpacking,Nature,Summer,5,132,660,4.4,Train,38.0,30.0,9.0,WP094-01
+Arusha,Tanzania,Africa,-3.3869,36.683,Culture & History,Nature,Summer,8,143,1144,4.0,Rental Car,38.0,29.0,17.0,WP094-02
+Arusha,Tanzania,Africa,-3.3869,36.683,Nature & Adventure,Nature,Summer,10,134,1340,4.8,Rental Car,60.0,33.0,9.0,WP094-03
+Arusha,Tanzania,Africa,-3.3869,36.683,Food & Local Life,Nature,Summer,3,182,546,4.3,Public Transport,76.0,32.0,20.0,WP094-04
+Arusha,Tanzania,Africa,-3.3869,36.683,Family Holiday,Nature,Summer,10,224,2240,4.9,Train,102.0,32.0,29.0,WP094-05
+Arusha,Tanzania,Africa,-3.3869,36.683,Relaxation,Nature,Summer,6,187,1122,4.5,Taxi/Rideshare,96.0,35.0,17.0,WP094-06
+Kigali,Rwanda,Africa,-1.9441,30.0619,Budget Backpacking,Nature,Summer,6,113,678,4.9,Bus,44.0,16.0,10.0,WP095-01
+Kigali,Rwanda,Africa,-1.9441,30.0619,Culture & History,Nature,Summer,5,143,715,4.8,Taxi/Rideshare,73.0,30.0,21.0,WP095-02
+Kigali,Rwanda,Africa,-1.9441,30.0619,Nature & Adventure,Nature,Summer,4,105,420,3.8,Walking,35.0,17.0,12.0,WP095-03
+Kigali,Rwanda,Africa,-1.9441,30.0619,Food & Local Life,Nature,Summer,7,100,700,4.3,Walking,35.0,14.0,9.0,WP095-04
+Kigali,Rwanda,Africa,-1.9441,30.0619,Family Holiday,Nature,Summer,7,179,1253,4.4,Walking,83.0,37.0,25.0,WP095-05
+Kigali,Rwanda,Africa,-1.9441,30.0619,Relaxation,Nature,Summer,10,169,1690,4.1,Public Transport,69.0,21.0,11.0,WP095-06
+Accra,Ghana,Africa,5.6037,-0.187,Budget Backpacking,Culture,Winter,5,54,270,4.6,Train,29.0,11.0,4.0,WP096-01
+Accra,Ghana,Africa,5.6037,-0.187,Culture & History,Culture,Winter,8,36,288,4.7,Train,17.0,8.0,5.0,WP096-02
+Accra,Ghana,Africa,5.6037,-0.187,Nature & Adventure,Culture,Winter,7,42,294,4.8,Walking,18.0,8.0,5.0,WP096-03
+Accra,Ghana,Africa,5.6037,-0.187,Food & Local Life,Culture,Winter,4,78,312,4.3,Walking,26.0,16.0,11.0,WP096-04
+Accra,Ghana,Africa,5.6037,-0.187,Family Holiday,Culture,Winter,6,118,708,4.9,Walking,41.0,23.0,6.0,WP096-05
+Accra,Ghana,Africa,5.6037,-0.187,Relaxation,Culture,Winter,4,116,464,4.4,Rental Car,58.0,28.0,14.0,WP096-06
+Lagos,Nigeria,Africa,6.5244,3.3792,Budget Backpacking,Urban & Culture,Winter,10,134,1340,4.5,Train,45.0,19.0,16.0,WP097-01
+Lagos,Nigeria,Africa,6.5244,3.3792,Culture & History,Urban & Culture,Winter,4,132,528,4.5,Public Transport,48.0,23.0,14.0,WP097-02
+Lagos,Nigeria,Africa,6.5244,3.3792,Nature & Adventure,Urban & Culture,Winter,4,125,500,4.3,Bus,31.0,23.0,18.0,WP097-03
+Lagos,Nigeria,Africa,6.5244,3.3792,Food & Local Life,Urban & Culture,Winter,4,114,456,4.8,Taxi/Rideshare,30.0,27.0,13.0,WP097-04
+Lagos,Nigeria,Africa,6.5244,3.3792,Family Holiday,Urban & Culture,Winter,6,187,1122,4.6,Taxi/Rideshare,67.0,41.0,15.0,WP097-05
+Lagos,Nigeria,Africa,6.5244,3.3792,Relaxation,Urban & Culture,Winter,4,192,768,4.2,Taxi/Rideshare,57.0,37.0,17.0,WP097-06
+Dakar,Senegal,Africa,14.7167,-17.4677,Budget Backpacking,Culture,Winter,4,132,528,4.5,Bus,47.0,20.0,17.0,WP098-01
+Dakar,Senegal,Africa,14.7167,-17.4677,Culture & History,Culture,Winter,7,164,1148,4.7,Walking,41.0,34.0,16.0,WP098-02
+Dakar,Senegal,Africa,14.7167,-17.4677,Nature & Adventure,Culture,Winter,3,135,405,4.5,Bus,49.0,30.0,8.0,WP098-03
+Dakar,Senegal,Africa,14.7167,-17.4677,Food & Local Life,Culture,Winter,7,136,952,4.6,Public Transport,71.0,31.0,12.0,WP098-04
+Dakar,Senegal,Africa,14.7167,-17.4677,Family Holiday,Culture,Winter,6,209,1254,4.2,Bus,109.0,30.0,21.0,WP098-05
+Dakar,Senegal,Africa,14.7167,-17.4677,Relaxation,Culture,Winter,4,171,684,5.0,Taxi/Rideshare,70.0,34.0,12.0,WP098-06
+Tunis,Tunisia,Africa,36.8065,10.1815,Budget Backpacking,History,Spring,10,123,1230,3.6,Taxi/Rideshare,61.0,29.0,15.0,WP099-01
+Tunis,Tunisia,Africa,36.8065,10.1815,Culture & History,History,Spring,8,124,992,4.6,Public Transport,59.0,17.0,12.0,WP099-02
+Tunis,Tunisia,Africa,36.8065,10.1815,Nature & Adventure,History,Spring,3,111,333,3.5,Public Transport,34.0,17.0,6.0,WP099-03
+Tunis,Tunisia,Africa,36.8065,10.1815,Food & Local Life,History,Spring,5,98,490,4.0,Rental Car,43.0,17.0,5.0,WP099-04
+Tunis,Tunisia,Africa,36.8065,10.1815,Family Holiday,History,Spring,7,124,868,3.4,Walking,54.0,27.0,13.0,WP099-05
+Tunis,Tunisia,Africa,36.8065,10.1815,Relaxation,History,Spring,5,133,665,4.8,Public Transport,45.0,28.0,15.0,WP099-06
+Algiers,Algeria,Africa,36.7538,3.0588,Budget Backpacking,Culture,Spring,6,143,858,4.1,Walking,37.0,20.0,10.0,WP100-01
+Algiers,Algeria,Africa,36.7538,3.0588,Culture & History,Culture,Spring,10,137,1370,4.7,Taxi/Rideshare,46.0,28.0,11.0,WP100-02
+Algiers,Algeria,Africa,36.7538,3.0588,Nature & Adventure,Culture,Spring,3,134,402,4.3,Taxi/Rideshare,39.0,17.0,14.0,WP100-03
+Algiers,Algeria,Africa,36.7538,3.0588,Food & Local Life,Culture,Spring,7,137,959,4.3,Public Transport,47.0,30.0,19.0,WP100-04
+Algiers,Algeria,Africa,36.7538,3.0588,Family Holiday,Culture,Spring,4,171,684,4.1,Walking,86.0,24.0,12.0,WP100-05
+Algiers,Algeria,Africa,36.7538,3.0588,Relaxation,Culture,Spring,4,174,696,3.7,Walking,85.0,40.0,24.0,WP100-06
+Victoria,Seychelles,Africa,-4.6191,55.4513,Budget Backpacking,Beach,Winter,5,248,1240,4.4,Bus,69.0,53.0,24.0,WP101-01
+Victoria,Seychelles,Africa,-4.6191,55.4513,Culture & History,Beach,Winter,5,281,1405,3.6,Walking,90.0,44.0,16.0,WP101-02
+Victoria,Seychelles,Africa,-4.6191,55.4513,Nature & Adventure,Beach,Winter,5,263,1315,4.1,Bus,114.0,42.0,29.0,WP101-03
+Victoria,Seychelles,Africa,-4.6191,55.4513,Food & Local Life,Beach,Winter,10,285,2850,3.9,Rental Car,86.0,46.0,37.0,WP101-04
+Victoria,Seychelles,Africa,-4.6191,55.4513,Family Holiday,Beach,Winter,5,334,1670,4.7,Train,152.0,54.0,33.0,WP101-05
+Victoria,Seychelles,Africa,-4.6191,55.4513,Relaxation,Beach,Winter,5,351,1755,4.6,Rental Car,146.0,50.0,39.0,WP101-06
+New York City,United States,North America,40.7128,-74.006,Budget Backpacking,Urban & Culture,Autumn,7,133,931,3.7,Walking,69.0,17.0,8.0,WP102-01
+New York City,United States,North America,40.7128,-74.006,Culture & History,Urban & Culture,Autumn,10,118,1180,4.2,Public Transport,58.0,23.0,15.0,WP102-02
+New York City,United States,North America,40.7128,-74.006,Nature & Adventure,Urban & Culture,Autumn,3,143,429,4.2,Taxi/Rideshare,74.0,27.0,17.0,WP102-03
+New York City,United States,North America,40.7128,-74.006,Food & Local Life,Urban & Culture,Autumn,5,135,675,4.0,Taxi/Rideshare,63.0,21.0,13.0,WP102-04
+New York City,United States,North America,40.7128,-74.006,Family Holiday,Urban & Culture,Autumn,3,221,663,4.0,Taxi/Rideshare,56.0,33.0,32.0,WP102-05
+New York City,United States,North America,40.7128,-74.006,Relaxation,Urban & Culture,Autumn,10,192,1920,4.2,Rental Car,57.0,37.0,20.0,WP102-06
+Los Angeles,United States,North America,34.0522,-118.2437,Budget Backpacking,Entertainment,Spring,5,143,715,3.5,Rental Car,46.0,22.0,10.0,WP103-01
+Los Angeles,United States,North America,34.0522,-118.2437,Culture & History,Entertainment,Spring,7,108,756,4.8,Bus,40.0,26.0,15.0,WP103-02
+Los Angeles,United States,North America,34.0522,-118.2437,Nature & Adventure,Entertainment,Spring,8,87,696,3.9,Walking,47.0,18.0,7.0,WP103-03
+Los Angeles,United States,North America,34.0522,-118.2437,Food & Local Life,Entertainment,Spring,7,115,805,4.2,Train,42.0,19.0,13.0,WP103-04
+Los Angeles,United States,North America,34.0522,-118.2437,Family Holiday,Entertainment,Spring,7,131,917,3.8,Train,53.0,22.0,18.0,WP103-05
+Los Angeles,United States,North America,34.0522,-118.2437,Relaxation,Entertainment,Spring,10,199,1990,4.1,Taxi/Rideshare,50.0,47.0,19.0,WP103-06
+San Francisco,United States,North America,37.7749,-122.4194,Budget Backpacking,Urban & Culture,Autumn,7,112,784,4.4,Train,33.0,16.0,12.0,WP104-01
+San Francisco,United States,North America,37.7749,-122.4194,Culture & History,Urban & Culture,Autumn,8,118,944,3.7,Bus,55.0,22.0,12.0,WP104-02
+San Francisco,United States,North America,37.7749,-122.4194,Nature & Adventure,Urban & Culture,Autumn,7,129,903,3.6,Rental Car,33.0,16.0,14.0,WP104-03
+San Francisco,United States,North America,37.7749,-122.4194,Food & Local Life,Urban & Culture,Autumn,4,123,492,4.3,Public Transport,64.0,17.0,8.0,WP104-04
+San Francisco,United States,North America,37.7749,-122.4194,Family Holiday,Urban & Culture,Autumn,7,166,1162,4.8,Taxi/Rideshare,90.0,34.0,23.0,WP104-05
+San Francisco,United States,North America,37.7749,-122.4194,Relaxation,Urban & Culture,Autumn,3,194,582,3.7,Taxi/Rideshare,106.0,45.0,13.0,WP104-06
+Las Vegas,United States,North America,36.1699,-115.1398,Budget Backpacking,Entertainment,Spring,10,168,1680,4.3,Train,73.0,31.0,11.0,WP105-01
+Las Vegas,United States,North America,36.1699,-115.1398,Culture & History,Entertainment,Spring,6,193,1158,4.3,Public Transport,62.0,33.0,12.0,WP105-02
+Las Vegas,United States,North America,36.1699,-115.1398,Nature & Adventure,Entertainment,Spring,7,175,1225,4.7,Taxi/Rideshare,80.0,40.0,19.0,WP105-03
+Las Vegas,United States,North America,36.1699,-115.1398,Food & Local Life,Entertainment,Spring,6,172,1032,4.8,Taxi/Rideshare,45.0,38.0,17.0,WP105-04
+Las Vegas,United States,North America,36.1699,-115.1398,Family Holiday,Entertainment,Spring,3,205,615,4.1,Train,107.0,39.0,10.0,WP105-05
+Las Vegas,United States,North America,36.1699,-115.1398,Relaxation,Entertainment,Spring,7,260,1820,4.0,Public Transport,119.0,46.0,37.0,WP105-06
+Orlando,United States,North America,28.5383,-81.3792,Budget Backpacking,Family,Winter,5,216,1080,4.3,Walking,113.0,49.0,23.0,WP106-01
+Orlando,United States,North America,28.5383,-81.3792,Culture & History,Family,Winter,4,222,888,3.8,Train,116.0,29.0,24.0,WP106-02
+Orlando,United States,North America,28.5383,-81.3792,Nature & Adventure,Family,Winter,5,220,1100,3.7,Walking,104.0,27.0,22.0,WP106-03
+Orlando,United States,North America,28.5383,-81.3792,Food & Local Life,Family,Winter,6,168,1008,4.4,Walking,83.0,29.0,10.0,WP106-04
+Orlando,United States,North America,28.5383,-81.3792,Family Holiday,Family,Winter,8,262,2096,4.3,Bus,133.0,46.0,23.0,WP106-05
+Orlando,United States,North America,28.5383,-81.3792,Relaxation,Family,Winter,8,258,2064,4.0,Train,96.0,57.0,25.0,WP106-06
+Miami,United States,North America,25.7617,-80.1918,Budget Backpacking,Beach,Winter,5,257,1285,4.3,Walking,95.0,35.0,35.0,WP107-01
+Miami,United States,North America,25.7617,-80.1918,Culture & History,Beach,Winter,8,240,1920,3.7,Walking,128.0,32.0,24.0,WP107-02
+Miami,United States,North America,25.7617,-80.1918,Nature & Adventure,Beach,Winter,10,268,2680,4.2,Walking,122.0,34.0,24.0,WP107-03
+Miami,United States,North America,25.7617,-80.1918,Food & Local Life,Beach,Winter,10,225,2250,3.5,Train,88.0,45.0,13.0,WP107-04
+Miami,United States,North America,25.7617,-80.1918,Family Holiday,Beach,Winter,4,298,1192,4.0,Taxi/Rideshare,78.0,51.0,44.0,WP107-05
+Miami,United States,North America,25.7617,-80.1918,Relaxation,Beach,Winter,8,316,2528,4.8,Public Transport,169.0,72.0,36.0,WP107-06
+Chicago,United States,North America,41.8781,-87.6298,Budget Backpacking,Urban & Culture,Summer,4,158,632,4.7,Taxi/Rideshare,53.0,20.0,17.0,WP108-01
+Chicago,United States,North America,41.8781,-87.6298,Culture & History,Urban & Culture,Summer,7,186,1302,3.7,Public Transport,67.0,38.0,27.0,WP108-02
+Chicago,United States,North America,41.8781,-87.6298,Nature & Adventure,Urban & Culture,Summer,5,168,840,4.6,Bus,76.0,29.0,12.0,WP108-03
+Chicago,United States,North America,41.8781,-87.6298,Food & Local Life,Urban & Culture,Summer,8,158,1264,4.5,Public Transport,66.0,34.0,17.0,WP108-04
+Chicago,United States,North America,41.8781,-87.6298,Family Holiday,Urban & Culture,Summer,5,241,1205,4.8,Bus,77.0,59.0,23.0,WP108-05
+Chicago,United States,North America,41.8781,-87.6298,Relaxation,Urban & Culture,Summer,7,263,1841,3.4,Train,98.0,35.0,15.0,WP108-06
+"Washington, D.C.",United States,North America,38.9072,-77.0369,Budget Backpacking,History,Spring,3,163,489,4.6,Bus,84.0,37.0,18.0,WP109-01
+"Washington, D.C.",United States,North America,38.9072,-77.0369,Culture & History,History,Spring,6,176,1056,4.2,Train,84.0,43.0,17.0,WP109-02
+"Washington, D.C.",United States,North America,38.9072,-77.0369,Nature & Adventure,History,Spring,7,178,1246,4.7,Rental Car,51.0,23.0,20.0,WP109-03
+"Washington, D.C.",United States,North America,38.9072,-77.0369,Food & Local Life,History,Spring,8,148,1184,4.5,Bus,55.0,25.0,15.0,WP109-04
+"Washington, D.C.",United States,North America,38.9072,-77.0369,Family Holiday,History,Spring,4,193,772,3.8,Rental Car,87.0,44.0,11.0,WP109-05
+"Washington, D.C.",United States,North America,38.9072,-77.0369,Relaxation,History,Spring,6,197,1182,3.9,Train,102.0,31.0,29.0,WP109-06
+Seattle,United States,North America,47.6062,-122.3321,Budget Backpacking,Nature,Summer,6,243,1458,4.6,Train,114.0,57.0,17.0,WP110-01
+Seattle,United States,North America,47.6062,-122.3321,Culture & History,Nature,Summer,10,244,2440,3.9,Taxi/Rideshare,87.0,54.0,15.0,WP110-02
+Seattle,United States,North America,47.6062,-122.3321,Nature & Adventure,Nature,Summer,8,229,1832,4.9,Rental Car,99.0,50.0,24.0,WP110-03
+Seattle,United States,North America,47.6062,-122.3321,Food & Local Life,Nature,Summer,10,224,2240,4.2,Taxi/Rideshare,77.0,53.0,31.0,WP110-04
+Seattle,United States,North America,47.6062,-122.3321,Family Holiday,Nature,Summer,6,294,1764,3.8,Taxi/Rideshare,98.0,44.0,32.0,WP110-05
+Seattle,United States,North America,47.6062,-122.3321,Relaxation,Nature,Summer,7,280,1960,4.7,Rental Car,149.0,35.0,24.0,WP110-06
+Honolulu,United States,North America,21.3099,-157.8581,Budget Backpacking,Beach,Winter,3,325,975,4.4,Rental Car,112.0,39.0,38.0,WP111-01
+Honolulu,United States,North America,21.3099,-157.8581,Culture & History,Beach,Winter,7,315,2205,3.6,Bus,137.0,48.0,33.0,WP111-02
+Honolulu,United States,North America,21.3099,-157.8581,Nature & Adventure,Beach,Winter,5,297,1485,4.1,Taxi/Rideshare,105.0,43.0,27.0,WP111-03
+Honolulu,United States,North America,21.3099,-157.8581,Food & Local Life,Beach,Winter,8,320,2560,4.5,Bus,162.0,50.0,22.0,WP111-04
+Honolulu,United States,North America,21.3099,-157.8581,Family Holiday,Beach,Winter,7,323,2261,4.4,Public Transport,151.0,73.0,34.0,WP111-05
+Honolulu,United States,North America,21.3099,-157.8581,Relaxation,Beach,Winter,4,370,1480,3.6,Walking,109.0,83.0,25.0,WP111-06
+Toronto,Canada,North America,43.6532,-79.3832,Budget Backpacking,Urban & Culture,Summer,10,189,1890,4.3,Taxi/Rideshare,88.0,42.0,15.0,WP112-01
+Toronto,Canada,North America,43.6532,-79.3832,Culture & History,Urban & Culture,Summer,6,178,1068,3.5,Train,48.0,40.0,17.0,WP112-02
+Toronto,Canada,North America,43.6532,-79.3832,Nature & Adventure,Urban & Culture,Summer,6,184,1104,4.5,Bus,66.0,35.0,26.0,WP112-03
+Toronto,Canada,North America,43.6532,-79.3832,Food & Local Life,Urban & Culture,Summer,5,204,1020,3.4,Public Transport,72.0,43.0,23.0,WP112-04
+Toronto,Canada,North America,43.6532,-79.3832,Family Holiday,Urban & Culture,Summer,10,234,2340,3.8,Bus,106.0,43.0,29.0,WP112-05
+Toronto,Canada,North America,43.6532,-79.3832,Relaxation,Urban & Culture,Summer,6,237,1422,4.3,Rental Car,104.0,33.0,16.0,WP112-06
+Vancouver,Canada,North America,49.2827,-123.1207,Budget Backpacking,Nature,Summer,8,184,1472,4.4,Rental Car,93.0,24.0,12.0,WP113-01
+Vancouver,Canada,North America,49.2827,-123.1207,Culture & History,Nature,Summer,5,160,800,4.0,Bus,74.0,32.0,14.0,WP113-02
+Vancouver,Canada,North America,49.2827,-123.1207,Nature & Adventure,Nature,Summer,10,187,1870,4.8,Bus,89.0,35.0,18.0,WP113-03
+Vancouver,Canada,North America,49.2827,-123.1207,Food & Local Life,Nature,Summer,4,152,608,4.8,Train,71.0,31.0,22.0,WP113-04
+Vancouver,Canada,North America,49.2827,-123.1207,Family Holiday,Nature,Summer,4,181,724,3.8,Public Transport,50.0,44.0,18.0,WP113-05
+Vancouver,Canada,North America,49.2827,-123.1207,Relaxation,Nature,Summer,3,192,576,4.7,Taxi/Rideshare,92.0,25.0,15.0,WP113-06
+Montreal,Canada,North America,45.5019,-73.5674,Budget Backpacking,Culture,Summer,8,94,752,4.9,Rental Car,32.0,14.0,7.0,WP114-01
+Montreal,Canada,North America,45.5019,-73.5674,Culture & History,Culture,Summer,4,100,400,4.3,Train,26.0,21.0,14.0,WP114-02
+Montreal,Canada,North America,45.5019,-73.5674,Nature & Adventure,Culture,Summer,10,125,1250,4.2,Taxi/Rideshare,66.0,24.0,8.0,WP114-03
+Montreal,Canada,North America,45.5019,-73.5674,Food & Local Life,Culture,Summer,7,106,742,4.4,Walking,50.0,25.0,10.0,WP114-04
+Montreal,Canada,North America,45.5019,-73.5674,Family Holiday,Culture,Summer,5,163,815,4.2,Train,80.0,29.0,14.0,WP114-05
+Montreal,Canada,North America,45.5019,-73.5674,Relaxation,Culture,Summer,4,172,688,4.0,Public Transport,70.0,38.0,11.0,WP114-06
+Quebec City,Canada,North America,46.8139,-71.208,Budget Backpacking,History,Summer,7,178,1246,3.4,Rental Car,95.0,32.0,9.0,WP115-01
+Quebec City,Canada,North America,46.8139,-71.208,Culture & History,History,Summer,10,173,1730,3.8,Train,85.0,33.0,12.0,WP115-02
+Quebec City,Canada,North America,46.8139,-71.208,Nature & Adventure,History,Summer,6,173,1038,3.8,Walking,82.0,30.0,15.0,WP115-03
+Quebec City,Canada,North America,46.8139,-71.208,Food & Local Life,History,Summer,3,151,453,4.0,Train,61.0,34.0,17.0,WP115-04
+Quebec City,Canada,North America,46.8139,-71.208,Family Holiday,History,Summer,5,192,960,4.4,Taxi/Rideshare,95.0,33.0,26.0,WP115-05
+Quebec City,Canada,North America,46.8139,-71.208,Relaxation,History,Summer,4,196,784,3.8,Walking,76.0,35.0,24.0,WP115-06
+Mexico City,Mexico,North America,19.4326,-99.1332,Budget Backpacking,Culture,Winter,5,194,970,3.5,Public Transport,105.0,24.0,29.0,WP116-01
+Mexico City,Mexico,North America,19.4326,-99.1332,Culture & History,Culture,Winter,5,206,1030,3.7,Rental Car,96.0,31.0,13.0,WP116-02
+Mexico City,Mexico,North America,19.4326,-99.1332,Nature & Adventure,Culture,Winter,4,233,932,4.0,Bus,113.0,43.0,20.0,WP116-03
+Mexico City,Mexico,North America,19.4326,-99.1332,Food & Local Life,Culture,Winter,5,174,870,3.6,Train,46.0,38.0,10.0,WP116-04
+Mexico City,Mexico,North America,19.4326,-99.1332,Family Holiday,Culture,Winter,4,270,1080,3.8,Bus,134.0,61.0,17.0,WP116-05
+Mexico City,Mexico,North America,19.4326,-99.1332,Relaxation,Culture,Winter,6,256,1536,4.7,Rental Car,83.0,64.0,18.0,WP116-06
+Cancun,Mexico,North America,21.1619,-86.8515,Budget Backpacking,Beach,Winter,6,296,1776,4.0,Bus,157.0,42.0,36.0,WP117-01
+Cancun,Mexico,North America,21.1619,-86.8515,Culture & History,Beach,Winter,5,285,1425,4.1,Bus,88.0,67.0,39.0,WP117-02
+Cancun,Mexico,North America,21.1619,-86.8515,Nature & Adventure,Beach,Winter,3,297,891,3.8,Rental Car,103.0,42.0,23.0,WP117-03
+Cancun,Mexico,North America,21.1619,-86.8515,Food & Local Life,Beach,Winter,6,285,1710,4.6,Public Transport,154.0,56.0,34.0,WP117-04
+Cancun,Mexico,North America,21.1619,-86.8515,Family Holiday,Beach,Winter,5,329,1645,4.6,Train,98.0,43.0,37.0,WP117-05
+Cancun,Mexico,North America,21.1619,-86.8515,Relaxation,Beach,Winter,3,332,996,3.9,Train,153.0,74.0,21.0,WP117-06
+Oaxaca,Mexico,North America,17.0732,-96.7266,Budget Backpacking,Food,Winter,7,144,1008,4.6,Bus,71.0,25.0,10.0,WP118-01
+Oaxaca,Mexico,North America,17.0732,-96.7266,Culture & History,Food,Winter,5,152,760,4.5,Bus,79.0,28.0,14.0,WP118-02
+Oaxaca,Mexico,North America,17.0732,-96.7266,Nature & Adventure,Food,Winter,7,141,987,4.4,Train,59.0,27.0,12.0,WP118-03
+Oaxaca,Mexico,North America,17.0732,-96.7266,Food & Local Life,Food,Winter,5,163,815,4.7,Taxi/Rideshare,85.0,31.0,9.0,WP118-04
+Oaxaca,Mexico,North America,17.0732,-96.7266,Family Holiday,Food,Winter,6,163,978,3.8,Bus,67.0,29.0,21.0,WP118-05
+Oaxaca,Mexico,North America,17.0732,-96.7266,Relaxation,Food,Winter,6,223,1338,4.5,Public Transport,97.0,37.0,25.0,WP118-06
+Guatemala City,Guatemala,North America,14.6349,-90.5069,Budget Backpacking,Culture,Winter,8,135,1080,5.0,Rental Car,41.0,28.0,17.0,WP119-01
+Guatemala City,Guatemala,North America,14.6349,-90.5069,Culture & History,Culture,Winter,7,146,1022,3.9,Rental Car,65.0,20.0,15.0,WP119-02
+Guatemala City,Guatemala,North America,14.6349,-90.5069,Nature & Adventure,Culture,Winter,3,135,405,4.8,Train,41.0,17.0,8.0,WP119-03
+Guatemala City,Guatemala,North America,14.6349,-90.5069,Food & Local Life,Culture,Winter,3,151,453,3.5,Walking,76.0,31.0,15.0,WP119-04
+Guatemala City,Guatemala,North America,14.6349,-90.5069,Family Holiday,Culture,Winter,3,199,597,4.0,Taxi/Rideshare,93.0,24.0,28.0,WP119-05
+Guatemala City,Guatemala,North America,14.6349,-90.5069,Relaxation,Culture,Winter,10,244,2440,3.6,Walking,65.0,47.0,35.0,WP119-06
+San Jose,Costa Rica,North America,9.9281,-84.0907,Budget Backpacking,Nature,Winter,10,198,1980,4.6,Taxi/Rideshare,65.0,25.0,11.0,WP120-01
+San Jose,Costa Rica,North America,9.9281,-84.0907,Culture & History,Nature,Winter,3,189,567,4.9,Taxi/Rideshare,53.0,40.0,19.0,WP120-02
+San Jose,Costa Rica,North America,9.9281,-84.0907,Nature & Adventure,Nature,Winter,4,175,700,4.3,Train,74.0,43.0,19.0,WP120-03
+San Jose,Costa Rica,North America,9.9281,-84.0907,Food & Local Life,Nature,Winter,8,204,1632,3.7,Walking,86.0,42.0,25.0,WP120-04
+San Jose,Costa Rica,North America,9.9281,-84.0907,Family Holiday,Nature,Winter,3,245,735,3.8,Train,102.0,45.0,28.0,WP120-05
+San Jose,Costa Rica,North America,9.9281,-84.0907,Relaxation,Nature,Winter,5,262,1310,4.9,Taxi/Rideshare,143.0,42.0,23.0,WP120-06
+Panama City,Panama,North America,8.9824,-79.5199,Budget Backpacking,Urban & Culture,Winter,10,295,2950,4.5,Taxi/Rideshare,95.0,56.0,26.0,WP121-01
+Panama City,Panama,North America,8.9824,-79.5199,Culture & History,Urban & Culture,Winter,5,272,1360,4.8,Rental Car,146.0,33.0,15.0,WP121-02
+Panama City,Panama,North America,8.9824,-79.5199,Nature & Adventure,Urban & Culture,Winter,7,276,1932,3.4,Train,151.0,44.0,22.0,WP121-03
+Panama City,Panama,North America,8.9824,-79.5199,Food & Local Life,Urban & Culture,Winter,4,268,1072,4.7,Public Transport,129.0,65.0,35.0,WP121-04
+Panama City,Panama,North America,8.9824,-79.5199,Family Holiday,Urban & Culture,Winter,7,345,2415,4.3,Taxi/Rideshare,102.0,43.0,30.0,WP121-05
+Panama City,Panama,North America,8.9824,-79.5199,Relaxation,Urban & Culture,Winter,5,312,1560,4.0,Taxi/Rideshare,101.0,48.0,25.0,WP121-06
+Havana,Cuba,North America,23.1136,-82.3666,Budget Backpacking,Culture,Winter,7,242,1694,4.9,Walking,66.0,39.0,24.0,WP122-01
+Havana,Cuba,North America,23.1136,-82.3666,Culture & History,Culture,Winter,10,253,2530,4.8,Walking,107.0,60.0,28.0,WP122-02
+Havana,Cuba,North America,23.1136,-82.3666,Nature & Adventure,Culture,Winter,3,229,687,4.6,Taxi/Rideshare,83.0,51.0,33.0,WP122-03
+Havana,Cuba,North America,23.1136,-82.3666,Food & Local Life,Culture,Winter,5,233,1165,4.8,Rental Car,87.0,54.0,32.0,WP122-04
+Havana,Cuba,North America,23.1136,-82.3666,Family Holiday,Culture,Winter,8,260,2080,4.5,Taxi/Rideshare,137.0,53.0,29.0,WP122-05
+Havana,Cuba,North America,23.1136,-82.3666,Relaxation,Culture,Winter,5,252,1260,4.3,Bus,104.0,35.0,25.0,WP122-06
+Kingston,Jamaica,North America,17.9712,-76.7936,Budget Backpacking,Culture,Winter,3,120,360,4.5,Rental Car,65.0,26.0,13.0,WP123-01
+Kingston,Jamaica,North America,17.9712,-76.7936,Culture & History,Culture,Winter,4,112,448,4.1,Rental Car,33.0,18.0,11.0,WP123-02
+Kingston,Jamaica,North America,17.9712,-76.7936,Nature & Adventure,Culture,Winter,7,107,749,4.1,Public Transport,40.0,19.0,13.0,WP123-03
+Kingston,Jamaica,North America,17.9712,-76.7936,Food & Local Life,Culture,Winter,6,118,708,4.3,Rental Car,43.0,23.0,13.0,WP123-04
+Kingston,Jamaica,North America,17.9712,-76.7936,Family Holiday,Culture,Winter,4,172,688,3.6,Rental Car,60.0,41.0,10.0,WP123-05
+Kingston,Jamaica,North America,17.9712,-76.7936,Relaxation,Culture,Winter,6,208,1248,4.0,Train,72.0,41.0,11.0,WP123-06
+Santo Domingo,Dominican Republic,North America,18.4861,-69.9312,Budget Backpacking,History,Winter,5,144,720,4.3,Rental Car,63.0,26.0,21.0,WP124-01
+Santo Domingo,Dominican Republic,North America,18.4861,-69.9312,Culture & History,History,Winter,4,152,608,4.4,Train,73.0,35.0,9.0,WP124-02
+Santo Domingo,Dominican Republic,North America,18.4861,-69.9312,Nature & Adventure,History,Winter,4,129,516,4.8,Train,66.0,29.0,7.0,WP124-03
+Santo Domingo,Dominican Republic,North America,18.4861,-69.9312,Food & Local Life,History,Winter,5,137,685,4.1,Public Transport,48.0,30.0,10.0,WP124-04
+Santo Domingo,Dominican Republic,North America,18.4861,-69.9312,Family Holiday,History,Winter,7,196,1372,4.1,Walking,107.0,41.0,23.0,WP124-05
+Santo Domingo,Dominican Republic,North America,18.4861,-69.9312,Relaxation,History,Winter,7,226,1582,4.8,Taxi/Rideshare,59.0,32.0,18.0,WP124-06
+San Juan,Puerto Rico,North America,18.4655,-66.1057,Budget Backpacking,Beach,Winter,6,288,1728,4.4,Public Transport,78.0,59.0,33.0,WP125-01
+San Juan,Puerto Rico,North America,18.4655,-66.1057,Culture & History,Beach,Winter,10,328,3280,3.6,Bus,167.0,67.0,24.0,WP125-02
+San Juan,Puerto Rico,North America,18.4655,-66.1057,Nature & Adventure,Beach,Winter,7,330,2310,4.9,Public Transport,172.0,60.0,36.0,WP125-03
+San Juan,Puerto Rico,North America,18.4655,-66.1057,Food & Local Life,Beach,Winter,4,293,1172,3.7,Rental Car,123.0,62.0,16.0,WP125-04
+San Juan,Puerto Rico,North America,18.4655,-66.1057,Family Holiday,Beach,Winter,5,361,1805,4.1,Walking,107.0,60.0,31.0,WP125-05
+San Juan,Puerto Rico,North America,18.4655,-66.1057,Relaxation,Beach,Winter,4,375,1500,4.9,Taxi/Rideshare,125.0,48.0,28.0,WP125-06
+Cartagena,Colombia,South America,10.391,-75.4794,Budget Backpacking,History,Winter,7,147,1029,4.8,Train,43.0,35.0,17.0,WP126-01
+Cartagena,Colombia,South America,10.391,-75.4794,Culture & History,History,Winter,8,155,1240,4.0,Walking,67.0,31.0,11.0,WP126-02
+Cartagena,Colombia,South America,10.391,-75.4794,Nature & Adventure,History,Winter,7,174,1218,3.6,Bus,91.0,28.0,18.0,WP126-03
+Cartagena,Colombia,South America,10.391,-75.4794,Food & Local Life,History,Winter,8,170,1360,3.6,Taxi/Rideshare,77.0,25.0,11.0,WP126-04
+Cartagena,Colombia,South America,10.391,-75.4794,Family Holiday,History,Winter,6,201,1206,4.9,Train,90.0,39.0,13.0,WP126-05
+Cartagena,Colombia,South America,10.391,-75.4794,Relaxation,History,Winter,7,207,1449,4.2,Walking,59.0,33.0,29.0,WP126-06
+Bogota,Colombia,South America,4.711,-74.0721,Budget Backpacking,Culture,Summer,10,234,2340,4.0,Rental Car,126.0,37.0,29.0,WP127-01
+Bogota,Colombia,South America,4.711,-74.0721,Culture & History,Culture,Summer,4,266,1064,4.7,Public Transport,77.0,33.0,40.0,WP127-02
+Bogota,Colombia,South America,4.711,-74.0721,Nature & Adventure,Culture,Summer,7,265,1855,4.4,Train,114.0,40.0,14.0,WP127-03
+Bogota,Colombia,South America,4.711,-74.0721,Food & Local Life,Culture,Summer,8,241,1928,4.7,Train,97.0,48.0,29.0,WP127-04
+Bogota,Colombia,South America,4.711,-74.0721,Family Holiday,Culture,Summer,4,318,1272,4.8,Rental Car,125.0,45.0,23.0,WP127-05
+Bogota,Colombia,South America,4.711,-74.0721,Relaxation,Culture,Summer,10,338,3380,5.0,Bus,181.0,50.0,40.0,WP127-06
+Medellin,Colombia,South America,6.2476,-75.5658,Budget Backpacking,Urban & Culture,Summer,3,122,366,3.7,Rental Car,62.0,22.0,10.0,WP128-01
+Medellin,Colombia,South America,6.2476,-75.5658,Culture & History,Urban & Culture,Summer,4,154,616,4.0,Public Transport,67.0,35.0,19.0,WP128-02
+Medellin,Colombia,South America,6.2476,-75.5658,Nature & Adventure,Urban & Culture,Summer,7,146,1022,4.8,Taxi/Rideshare,63.0,27.0,20.0,WP128-03
+Medellin,Colombia,South America,6.2476,-75.5658,Food & Local Life,Urban & Culture,Summer,7,100,700,3.6,Rental Car,50.0,13.0,15.0,WP128-04
+Medellin,Colombia,South America,6.2476,-75.5658,Family Holiday,Urban & Culture,Summer,8,186,1488,3.5,Rental Car,75.0,38.0,10.0,WP128-05
+Medellin,Colombia,South America,6.2476,-75.5658,Relaxation,Urban & Culture,Summer,6,188,1128,4.0,Bus,91.0,30.0,13.0,WP128-06
+Quito,Ecuador,South America,-0.1807,-78.4678,Budget Backpacking,Nature,Summer,8,126,1008,4.3,Train,49.0,26.0,7.0,WP129-01
+Quito,Ecuador,South America,-0.1807,-78.4678,Culture & History,Nature,Summer,3,184,552,3.8,Taxi/Rideshare,98.0,39.0,12.0,WP129-02
+Quito,Ecuador,South America,-0.1807,-78.4678,Nature & Adventure,Nature,Summer,5,172,860,4.2,Train,66.0,41.0,24.0,WP129-03
+Quito,Ecuador,South America,-0.1807,-78.4678,Food & Local Life,Nature,Summer,3,178,534,3.9,Walking,79.0,38.0,12.0,WP129-04
+Quito,Ecuador,South America,-0.1807,-78.4678,Family Holiday,Nature,Summer,3,175,525,3.7,Rental Car,77.0,23.0,21.0,WP129-05
+Quito,Ecuador,South America,-0.1807,-78.4678,Relaxation,Nature,Summer,7,240,1680,4.9,Rental Car,100.0,30.0,16.0,WP129-06
+Galapagos Islands,Ecuador,South America,-0.9538,-90.9656,Budget Backpacking,Nature,Summer,4,149,596,4.8,Train,72.0,19.0,12.0,WP130-01
+Galapagos Islands,Ecuador,South America,-0.9538,-90.9656,Culture & History,Nature,Summer,5,187,935,4.4,Public Transport,97.0,46.0,9.0,WP130-02
+Galapagos Islands,Ecuador,South America,-0.9538,-90.9656,Nature & Adventure,Nature,Summer,3,162,486,4.2,Rental Car,67.0,20.0,22.0,WP130-03
+Galapagos Islands,Ecuador,South America,-0.9538,-90.9656,Food & Local Life,Nature,Summer,4,160,640,4.4,Rental Car,62.0,28.0,18.0,WP130-04
+Galapagos Islands,Ecuador,South America,-0.9538,-90.9656,Family Holiday,Nature,Summer,4,170,680,4.8,Bus,74.0,33.0,23.0,WP130-05
+Galapagos Islands,Ecuador,South America,-0.9538,-90.9656,Relaxation,Nature,Summer,4,191,764,3.7,Walking,68.0,27.0,10.0,WP130-06
+Lima,Peru,South America,-12.0464,-77.0428,Budget Backpacking,Food,Winter,5,230,1150,4.8,Public Transport,65.0,57.0,15.0,WP131-01
+Lima,Peru,South America,-12.0464,-77.0428,Culture & History,Food,Winter,7,228,1596,4.4,Walking,98.0,51.0,15.0,WP131-02
+Lima,Peru,South America,-12.0464,-77.0428,Nature & Adventure,Food,Winter,8,250,2000,4.3,Public Transport,69.0,40.0,22.0,WP131-03
+Lima,Peru,South America,-12.0464,-77.0428,Food & Local Life,Food,Winter,10,240,2400,3.5,Rental Car,121.0,31.0,23.0,WP131-04
+Lima,Peru,South America,-12.0464,-77.0428,Family Holiday,Food,Winter,8,247,1976,4.7,Bus,101.0,46.0,30.0,WP131-05
+Lima,Peru,South America,-12.0464,-77.0428,Relaxation,Food,Winter,3,254,762,4.3,Walking,104.0,33.0,31.0,WP131-06
+Cusco,Peru,South America,-13.532,-71.9675,Budget Backpacking,History,Winter,6,235,1410,4.3,Bus,77.0,46.0,26.0,WP132-01
+Cusco,Peru,South America,-13.532,-71.9675,Culture & History,History,Winter,7,215,1505,4.2,Taxi/Rideshare,101.0,40.0,28.0,WP132-02
+Cusco,Peru,South America,-13.532,-71.9675,Nature & Adventure,History,Winter,8,228,1824,3.8,Train,57.0,28.0,26.0,WP132-03
+Cusco,Peru,South America,-13.532,-71.9675,Food & Local Life,History,Winter,8,214,1712,4.7,Taxi/Rideshare,118.0,37.0,18.0,WP132-04
+Cusco,Peru,South America,-13.532,-71.9675,Family Holiday,History,Winter,3,266,798,4.4,Walking,89.0,59.0,21.0,WP132-05
+Cusco,Peru,South America,-13.532,-71.9675,Relaxation,History,Winter,7,318,2226,3.9,Public Transport,90.0,52.0,28.0,WP132-06
+Machu Picchu,Peru,South America,-13.1631,-72.545,Budget Backpacking,History,Winter,10,193,1930,3.7,Bus,97.0,46.0,19.0,WP133-01
+Machu Picchu,Peru,South America,-13.1631,-72.545,Culture & History,History,Winter,10,250,2500,3.5,Train,99.0,50.0,35.0,WP133-02
+Machu Picchu,Peru,South America,-13.1631,-72.545,Nature & Adventure,History,Winter,6,232,1392,4.6,Rental Car,123.0,30.0,24.0,WP133-03
+Machu Picchu,Peru,South America,-13.1631,-72.545,Food & Local Life,History,Winter,7,230,1610,4.2,Train,97.0,38.0,33.0,WP133-04
+Machu Picchu,Peru,South America,-13.1631,-72.545,Family Holiday,History,Winter,3,275,825,4.9,Bus,138.0,45.0,24.0,WP133-05
+Machu Picchu,Peru,South America,-13.1631,-72.545,Relaxation,History,Winter,7,266,1862,4.3,Train,114.0,62.0,33.0,WP133-06
+La Paz,Bolivia,South America,-16.4897,-68.1193,Budget Backpacking,Culture,Winter,8,265,2120,3.5,Rental Car,73.0,62.0,23.0,WP134-01
+La Paz,Bolivia,South America,-16.4897,-68.1193,Culture & History,Culture,Winter,4,263,1052,4.3,Train,75.0,58.0,34.0,WP134-02
+La Paz,Bolivia,South America,-16.4897,-68.1193,Nature & Adventure,Culture,Winter,6,236,1416,4.3,Rental Car,123.0,33.0,20.0,WP134-03
+La Paz,Bolivia,South America,-16.4897,-68.1193,Food & Local Life,Culture,Winter,8,286,2288,4.8,Bus,138.0,40.0,39.0,WP134-04
+La Paz,Bolivia,South America,-16.4897,-68.1193,Family Holiday,Culture,Winter,4,281,1124,4.6,Rental Car,103.0,65.0,17.0,WP134-05
+La Paz,Bolivia,South America,-16.4897,-68.1193,Relaxation,Culture,Winter,3,319,957,4.5,Taxi/Rideshare,163.0,52.0,44.0,WP134-06
+Salar de Uyuni,Bolivia,South America,-20.1338,-67.4891,Budget Backpacking,Nature,Winter,3,110,330,4.4,Bus,49.0,16.0,8.0,WP135-01
+Salar de Uyuni,Bolivia,South America,-20.1338,-67.4891,Culture & History,Nature,Winter,5,107,535,4.3,Rental Car,48.0,17.0,7.0,WP135-02
+Salar de Uyuni,Bolivia,South America,-20.1338,-67.4891,Nature & Adventure,Nature,Winter,3,85,255,4.9,Taxi/Rideshare,34.0,12.0,7.0,WP135-03
+Salar de Uyuni,Bolivia,South America,-20.1338,-67.4891,Food & Local Life,Nature,Winter,5,111,555,3.7,Walking,55.0,22.0,7.0,WP135-04
+Salar de Uyuni,Bolivia,South America,-20.1338,-67.4891,Family Holiday,Nature,Winter,7,150,1050,4.8,Taxi/Rideshare,57.0,21.0,15.0,WP135-05
+Salar de Uyuni,Bolivia,South America,-20.1338,-67.4891,Relaxation,Nature,Winter,3,132,396,4.1,Public Transport,50.0,19.0,14.0,WP135-06
+Santiago,Chile,South America,-33.4489,-70.6693,Budget Backpacking,Urban & Culture,Spring,7,253,1771,3.9,Bus,125.0,54.0,30.0,WP136-01
+Santiago,Chile,South America,-33.4489,-70.6693,Culture & History,Urban & Culture,Spring,10,206,2060,4.5,Taxi/Rideshare,60.0,46.0,29.0,WP136-02
+Santiago,Chile,South America,-33.4489,-70.6693,Nature & Adventure,Urban & Culture,Spring,3,255,765,4.1,Walking,113.0,56.0,25.0,WP136-03
+Santiago,Chile,South America,-33.4489,-70.6693,Food & Local Life,Urban & Culture,Spring,4,224,896,4.7,Taxi/Rideshare,73.0,37.0,15.0,WP136-04
+Santiago,Chile,South America,-33.4489,-70.6693,Family Holiday,Urban & Culture,Spring,10,278,2780,4.7,Bus,107.0,34.0,27.0,WP136-05
+Santiago,Chile,South America,-33.4489,-70.6693,Relaxation,Urban & Culture,Spring,6,295,1770,4.1,Train,99.0,49.0,32.0,WP136-06
+Atacama Desert,Chile,South America,-23.8634,-69.1328,Budget Backpacking,Nature,Spring,6,188,1128,4.7,Public Transport,65.0,38.0,24.0,WP137-01
+Atacama Desert,Chile,South America,-23.8634,-69.1328,Culture & History,Nature,Spring,6,234,1404,4.4,Train,102.0,45.0,34.0,WP137-02
+Atacama Desert,Chile,South America,-23.8634,-69.1328,Nature & Adventure,Nature,Spring,3,224,672,4.0,Walking,96.0,50.0,21.0,WP137-03
+Atacama Desert,Chile,South America,-23.8634,-69.1328,Food & Local Life,Nature,Spring,7,218,1526,4.5,Train,98.0,28.0,31.0,WP137-04
+Atacama Desert,Chile,South America,-23.8634,-69.1328,Family Holiday,Nature,Spring,3,277,831,4.4,Rental Car,96.0,37.0,26.0,WP137-05
+Atacama Desert,Chile,South America,-23.8634,-69.1328,Relaxation,Nature,Spring,6,269,1614,3.6,Public Transport,123.0,53.0,36.0,WP137-06
+Buenos Aires,Argentina,South America,-34.6037,-58.3816,Budget Backpacking,Culture,Spring,8,191,1528,4.5,Public Transport,60.0,26.0,21.0,WP138-01
+Buenos Aires,Argentina,South America,-34.6037,-58.3816,Culture & History,Culture,Spring,10,128,1280,3.7,Train,49.0,20.0,14.0,WP138-02
+Buenos Aires,Argentina,South America,-34.6037,-58.3816,Nature & Adventure,Culture,Spring,4,185,740,3.8,Bus,63.0,41.0,22.0,WP138-03
+Buenos Aires,Argentina,South America,-34.6037,-58.3816,Food & Local Life,Culture,Spring,8,183,1464,5.0,Bus,100.0,36.0,20.0,WP138-04
+Buenos Aires,Argentina,South America,-34.6037,-58.3816,Family Holiday,Culture,Spring,6,233,1398,4.8,Bus,63.0,55.0,34.0,WP138-05
+Buenos Aires,Argentina,South America,-34.6037,-58.3816,Relaxation,Culture,Spring,8,183,1464,4.3,Bus,52.0,29.0,10.0,WP138-06
+Patagonia,Argentina,South America,-50.9423,-73.4068,Budget Backpacking,Nature,Summer,8,205,1640,4.0,Rental Car,76.0,36.0,15.0,WP139-01
+Patagonia,Argentina,South America,-50.9423,-73.4068,Culture & History,Nature,Summer,6,177,1062,3.7,Taxi/Rideshare,65.0,43.0,24.0,WP139-02
+Patagonia,Argentina,South America,-50.9423,-73.4068,Nature & Adventure,Nature,Summer,5,174,870,5.0,Walking,50.0,21.0,20.0,WP139-03
+Patagonia,Argentina,South America,-50.9423,-73.4068,Food & Local Life,Nature,Summer,8,173,1384,4.8,Walking,66.0,43.0,10.0,WP139-04
+Patagonia,Argentina,South America,-50.9423,-73.4068,Family Holiday,Nature,Summer,10,248,2480,4.2,Walking,107.0,43.0,17.0,WP139-05
+Patagonia,Argentina,South America,-50.9423,-73.4068,Relaxation,Nature,Summer,6,275,1650,4.3,Rental Car,100.0,41.0,25.0,WP139-06
+Rio de Janeiro,Brazil,South America,-22.9068,-43.1729,Budget Backpacking,Beach,Summer,8,164,1312,4.2,Rental Car,87.0,32.0,9.0,WP140-01
+Rio de Janeiro,Brazil,South America,-22.9068,-43.1729,Culture & History,Beach,Summer,7,138,966,4.1,Bus,39.0,25.0,16.0,WP140-02
+Rio de Janeiro,Brazil,South America,-22.9068,-43.1729,Nature & Adventure,Beach,Summer,8,152,1216,4.5,Bus,59.0,20.0,21.0,WP140-03
+Rio de Janeiro,Brazil,South America,-22.9068,-43.1729,Food & Local Life,Beach,Summer,4,145,580,4.1,Walking,65.0,30.0,17.0,WP140-04
+Rio de Janeiro,Brazil,South America,-22.9068,-43.1729,Family Holiday,Beach,Summer,7,213,1491,3.5,Bus,87.0,26.0,20.0,WP140-05
+Rio de Janeiro,Brazil,South America,-22.9068,-43.1729,Relaxation,Beach,Summer,7,249,1743,4.5,Rental Car,89.0,62.0,20.0,WP140-06
+Sao Paulo,Brazil,South America,-23.5505,-46.6333,Budget Backpacking,Urban & Culture,Spring,8,91,728,4.8,Walking,31.0,20.0,7.0,WP141-01
+Sao Paulo,Brazil,South America,-23.5505,-46.6333,Culture & History,Urban & Culture,Spring,7,147,1029,3.7,Public Transport,66.0,23.0,18.0,WP141-02
+Sao Paulo,Brazil,South America,-23.5505,-46.6333,Nature & Adventure,Urban & Culture,Spring,5,90,450,4.1,Train,36.0,21.0,7.0,WP141-03
+Sao Paulo,Brazil,South America,-23.5505,-46.6333,Food & Local Life,Urban & Culture,Spring,7,103,721,3.8,Bus,26.0,14.0,7.0,WP141-04
+Sao Paulo,Brazil,South America,-23.5505,-46.6333,Family Holiday,Urban & Culture,Spring,8,146,1168,4.1,Train,48.0,31.0,14.0,WP141-05
+Sao Paulo,Brazil,South America,-23.5505,-46.6333,Relaxation,Urban & Culture,Spring,5,146,730,4.9,Train,63.0,33.0,20.0,WP141-06
+Iguazu Falls,Brazil,South America,-25.6953,-54.4367,Budget Backpacking,Nature,Spring,10,289,2890,4.1,Walking,110.0,59.0,21.0,WP142-01
+Iguazu Falls,Brazil,South America,-25.6953,-54.4367,Culture & History,Nature,Spring,3,281,843,4.5,Public Transport,75.0,51.0,27.0,WP142-02
+Iguazu Falls,Brazil,South America,-25.6953,-54.4367,Nature & Adventure,Nature,Spring,8,297,2376,4.9,Taxi/Rideshare,95.0,62.0,26.0,WP142-03
+Iguazu Falls,Brazil,South America,-25.6953,-54.4367,Food & Local Life,Nature,Spring,4,270,1080,4.3,Rental Car,68.0,65.0,26.0,WP142-04
+Iguazu Falls,Brazil,South America,-25.6953,-54.4367,Family Holiday,Nature,Spring,7,317,2219,4.5,Public Transport,89.0,60.0,27.0,WP142-05
+Iguazu Falls,Brazil,South America,-25.6953,-54.4367,Relaxation,Nature,Spring,7,347,2429,4.9,Bus,122.0,54.0,21.0,WP142-06
+Montevideo,Uruguay,South America,-34.9011,-56.1645,Budget Backpacking,Culture,Summer,6,262,1572,4.7,Walking,85.0,54.0,33.0,WP143-01
+Montevideo,Uruguay,South America,-34.9011,-56.1645,Culture & History,Culture,Summer,8,255,2040,4.5,Train,88.0,31.0,13.0,WP143-02
+Montevideo,Uruguay,South America,-34.9011,-56.1645,Nature & Adventure,Culture,Summer,3,220,660,4.1,Taxi/Rideshare,62.0,39.0,16.0,WP143-03
+Montevideo,Uruguay,South America,-34.9011,-56.1645,Food & Local Life,Culture,Summer,5,248,1240,3.8,Public Transport,108.0,32.0,27.0,WP143-04
+Montevideo,Uruguay,South America,-34.9011,-56.1645,Family Holiday,Culture,Summer,7,279,1953,4.5,Walking,150.0,37.0,31.0,WP143-05
+Montevideo,Uruguay,South America,-34.9011,-56.1645,Relaxation,Culture,Summer,8,315,2520,4.6,Walking,132.0,77.0,44.0,WP143-06
+Asuncion,Paraguay,South America,-25.2637,-57.5759,Budget Backpacking,Culture,Winter,5,246,1230,3.9,Walking,131.0,50.0,35.0,WP144-01
+Asuncion,Paraguay,South America,-25.2637,-57.5759,Culture & History,Culture,Winter,10,258,2580,4.1,Walking,124.0,42.0,17.0,WP144-02
+Asuncion,Paraguay,South America,-25.2637,-57.5759,Nature & Adventure,Culture,Winter,5,232,1160,4.7,Rental Car,85.0,58.0,18.0,WP144-03
+Asuncion,Paraguay,South America,-25.2637,-57.5759,Food & Local Life,Culture,Winter,4,256,1024,4.2,Rental Car,139.0,37.0,23.0,WP144-04
+Asuncion,Paraguay,South America,-25.2637,-57.5759,Family Holiday,Culture,Winter,3,325,975,3.7,Rental Car,103.0,66.0,46.0,WP144-05
+Asuncion,Paraguay,South America,-25.2637,-57.5759,Relaxation,Culture,Winter,3,311,933,3.6,Public Transport,131.0,47.0,29.0,WP144-06
+Sydney,Australia,Oceania,-33.8688,151.2093,Budget Backpacking,Urban & Culture,Spring,8,191,1528,4.4,Public Transport,86.0,30.0,23.0,WP145-01
+Sydney,Australia,Oceania,-33.8688,151.2093,Culture & History,Urban & Culture,Spring,7,222,1554,3.4,Walking,118.0,41.0,21.0,WP145-02
+Sydney,Australia,Oceania,-33.8688,151.2093,Nature & Adventure,Urban & Culture,Spring,7,180,1260,3.7,Rental Car,97.0,41.0,18.0,WP145-03
+Sydney,Australia,Oceania,-33.8688,151.2093,Food & Local Life,Urban & Culture,Spring,5,217,1085,4.4,Rental Car,58.0,54.0,25.0,WP145-04
+Sydney,Australia,Oceania,-33.8688,151.2093,Family Holiday,Urban & Culture,Spring,7,258,1806,4.7,Bus,71.0,46.0,33.0,WP145-05
+Sydney,Australia,Oceania,-33.8688,151.2093,Relaxation,Urban & Culture,Spring,4,252,1008,4.2,Rental Car,113.0,40.0,22.0,WP145-06
+Melbourne,Australia,Oceania,-37.8136,144.9631,Budget Backpacking,Art,Autumn,6,117,702,3.5,Walking,45.0,17.0,6.0,WP146-01
+Melbourne,Australia,Oceania,-37.8136,144.9631,Culture & History,Art,Autumn,8,75,600,4.9,Train,30.0,10.0,8.0,WP146-02
+Melbourne,Australia,Oceania,-37.8136,144.9631,Nature & Adventure,Art,Autumn,6,111,666,4.2,Rental Car,60.0,14.0,9.0,WP146-03
+Melbourne,Australia,Oceania,-37.8136,144.9631,Food & Local Life,Art,Autumn,10,115,1150,4.5,Rental Car,33.0,26.0,13.0,WP146-04
+Melbourne,Australia,Oceania,-37.8136,144.9631,Family Holiday,Art,Autumn,8,170,1360,4.7,Taxi/Rideshare,50.0,33.0,24.0,WP146-05
+Melbourne,Australia,Oceania,-37.8136,144.9631,Relaxation,Art,Autumn,8,131,1048,3.6,Walking,33.0,31.0,15.0,WP146-06
+Brisbane,Australia,Oceania,-27.4698,153.0251,Budget Backpacking,Nature,Spring,3,123,369,3.8,Public Transport,64.0,28.0,7.0,WP147-01
+Brisbane,Australia,Oceania,-27.4698,153.0251,Culture & History,Nature,Spring,10,128,1280,4.4,Public Transport,36.0,25.0,14.0,WP147-02
+Brisbane,Australia,Oceania,-27.4698,153.0251,Nature & Adventure,Nature,Spring,10,115,1150,3.8,Bus,57.0,28.0,14.0,WP147-03
+Brisbane,Australia,Oceania,-27.4698,153.0251,Food & Local Life,Nature,Spring,3,148,444,5.0,Taxi/Rideshare,61.0,24.0,22.0,WP147-04
+Brisbane,Australia,Oceania,-27.4698,153.0251,Family Holiday,Nature,Spring,10,174,1740,3.6,Train,61.0,24.0,11.0,WP147-05
+Brisbane,Australia,Oceania,-27.4698,153.0251,Relaxation,Nature,Spring,4,215,860,4.5,Taxi/Rideshare,64.0,33.0,23.0,WP147-06
+Perth,Australia,Oceania,-31.9505,115.8605,Budget Backpacking,Beach,Spring,10,164,1640,3.6,Rental Car,45.0,20.0,23.0,WP148-01
+Perth,Australia,Oceania,-31.9505,115.8605,Culture & History,Beach,Spring,6,152,912,4.4,Rental Car,70.0,22.0,17.0,WP148-02
+Perth,Australia,Oceania,-31.9505,115.8605,Nature & Adventure,Beach,Spring,6,173,1038,3.8,Train,75.0,22.0,12.0,WP148-03
+Perth,Australia,Oceania,-31.9505,115.8605,Food & Local Life,Beach,Spring,7,179,1253,4.8,Walking,89.0,28.0,16.0,WP148-04
+Perth,Australia,Oceania,-31.9505,115.8605,Family Holiday,Beach,Spring,4,186,744,3.6,Taxi/Rideshare,101.0,37.0,25.0,WP148-05
+Perth,Australia,Oceania,-31.9505,115.8605,Relaxation,Beach,Spring,4,235,940,4.1,Walking,105.0,37.0,16.0,WP148-06
+Cairns,Australia,Oceania,-16.9186,145.7781,Budget Backpacking,Nature,Winter,6,143,858,3.8,Walking,75.0,18.0,12.0,WP149-01
+Cairns,Australia,Oceania,-16.9186,145.7781,Culture & History,Nature,Winter,6,109,654,3.9,Taxi/Rideshare,54.0,24.0,6.0,WP149-02
+Cairns,Australia,Oceania,-16.9186,145.7781,Nature & Adventure,Nature,Winter,7,89,623,3.8,Public Transport,35.0,12.0,12.0,WP149-03
+Cairns,Australia,Oceania,-16.9186,145.7781,Food & Local Life,Nature,Winter,7,139,973,4.4,Rental Car,43.0,29.0,11.0,WP149-04
+Cairns,Australia,Oceania,-16.9186,145.7781,Family Holiday,Nature,Winter,5,137,685,3.8,Train,65.0,32.0,12.0,WP149-05
+Cairns,Australia,Oceania,-16.9186,145.7781,Relaxation,Nature,Winter,3,166,498,4.2,Rental Car,44.0,29.0,12.0,WP149-06
+Gold Coast,Australia,Oceania,-28.0167,153.4,Budget Backpacking,Beach,Spring,6,306,1836,4.0,Rental Car,143.0,62.0,45.0,WP150-01
+Gold Coast,Australia,Oceania,-28.0167,153.4,Culture & History,Beach,Spring,5,309,1545,3.6,Walking,130.0,48.0,19.0,WP150-02
+Gold Coast,Australia,Oceania,-28.0167,153.4,Nature & Adventure,Beach,Spring,6,343,2058,4.0,Bus,108.0,54.0,23.0,WP150-03
+Gold Coast,Australia,Oceania,-28.0167,153.4,Food & Local Life,Beach,Spring,7,305,2135,4.9,Train,84.0,71.0,30.0,WP150-04
+Gold Coast,Australia,Oceania,-28.0167,153.4,Family Holiday,Beach,Spring,7,351,2457,4.1,Rental Car,117.0,75.0,43.0,WP150-05
+Gold Coast,Australia,Oceania,-28.0167,153.4,Relaxation,Beach,Spring,4,370,1480,3.9,Taxi/Rideshare,117.0,89.0,54.0,WP150-06
+Auckland,New Zealand,Oceania,-36.8509,174.7645,Budget Backpacking,Nature,Summer,6,191,1146,5.0,Public Transport,105.0,41.0,19.0,WP151-01
+Auckland,New Zealand,Oceania,-36.8509,174.7645,Culture & History,Nature,Summer,7,245,1715,4.1,Walking,122.0,44.0,18.0,WP151-02
+Auckland,New Zealand,Oceania,-36.8509,174.7645,Nature & Adventure,Nature,Summer,8,192,1536,4.6,Train,56.0,30.0,22.0,WP151-03
+Auckland,New Zealand,Oceania,-36.8509,174.7645,Food & Local Life,Nature,Summer,3,202,606,4.2,Bus,60.0,36.0,22.0,WP151-04
+Auckland,New Zealand,Oceania,-36.8509,174.7645,Family Holiday,Nature,Summer,6,234,1404,4.2,Train,120.0,40.0,30.0,WP151-05
+Auckland,New Zealand,Oceania,-36.8509,174.7645,Relaxation,Nature,Summer,8,293,2344,4.2,Walking,73.0,59.0,26.0,WP151-06
+Queenstown,New Zealand,Oceania,-45.0312,168.6626,Budget Backpacking,Nature,Summer,7,263,1841,3.5,Rental Car,125.0,55.0,29.0,WP152-01
+Queenstown,New Zealand,Oceania,-45.0312,168.6626,Culture & History,Nature,Summer,10,247,2470,4.5,Taxi/Rideshare,127.0,53.0,14.0,WP152-02
+Queenstown,New Zealand,Oceania,-45.0312,168.6626,Nature & Adventure,Nature,Summer,3,267,801,3.7,Bus,104.0,33.0,23.0,WP152-03
+Queenstown,New Zealand,Oceania,-45.0312,168.6626,Food & Local Life,Nature,Summer,7,229,1603,4.6,Train,67.0,37.0,24.0,WP152-04
+Queenstown,New Zealand,Oceania,-45.0312,168.6626,Family Holiday,Nature,Summer,8,322,2576,4.9,Taxi/Rideshare,165.0,68.0,40.0,WP152-05
+Queenstown,New Zealand,Oceania,-45.0312,168.6626,Relaxation,Nature,Summer,5,304,1520,4.0,Bus,122.0,53.0,17.0,WP152-06
+Wellington,New Zealand,Oceania,-41.2865,174.7762,Budget Backpacking,Culture,Summer,6,184,1104,4.2,Taxi/Rideshare,92.0,33.0,19.0,WP153-01
+Wellington,New Zealand,Oceania,-41.2865,174.7762,Culture & History,Culture,Summer,6,177,1062,4.4,Walking,94.0,40.0,26.0,WP153-02
+Wellington,New Zealand,Oceania,-41.2865,174.7762,Nature & Adventure,Culture,Summer,4,148,592,4.8,Rental Car,41.0,25.0,10.0,WP153-03
+Wellington,New Zealand,Oceania,-41.2865,174.7762,Food & Local Life,Culture,Summer,3,149,447,3.7,Public Transport,68.0,27.0,20.0,WP153-04
+Wellington,New Zealand,Oceania,-41.2865,174.7762,Family Holiday,Culture,Summer,5,182,910,4.1,Walking,75.0,25.0,15.0,WP153-05
+Wellington,New Zealand,Oceania,-41.2865,174.7762,Relaxation,Culture,Summer,8,251,2008,4.5,Bus,77.0,31.0,33.0,WP153-06
+Suva,Fiji,Oceania,-18.1248,178.4501,Budget Backpacking,Culture,Winter,6,220,1320,4.4,Walking,98.0,36.0,24.0,WP154-01
+Suva,Fiji,Oceania,-18.1248,178.4501,Culture & History,Culture,Winter,6,234,1404,4.0,Train,122.0,37.0,30.0,WP154-02
+Suva,Fiji,Oceania,-18.1248,178.4501,Nature & Adventure,Culture,Winter,6,207,1242,4.1,Bus,100.0,26.0,18.0,WP154-03
+Suva,Fiji,Oceania,-18.1248,178.4501,Food & Local Life,Culture,Winter,4,236,944,4.4,Train,109.0,37.0,35.0,WP154-04
+Suva,Fiji,Oceania,-18.1248,178.4501,Family Holiday,Culture,Winter,4,237,948,3.9,Public Transport,130.0,46.0,22.0,WP154-05
+Suva,Fiji,Oceania,-18.1248,178.4501,Relaxation,Culture,Winter,4,280,1120,3.8,Walking,73.0,45.0,24.0,WP154-06
+Nadi,Fiji,Oceania,-17.7765,177.4356,Budget Backpacking,Beach,Winter,7,242,1694,3.9,Public Transport,90.0,45.0,16.0,WP155-01
+Nadi,Fiji,Oceania,-17.7765,177.4356,Culture & History,Beach,Winter,5,280,1400,3.6,Walking,116.0,52.0,32.0,WP155-02
+Nadi,Fiji,Oceania,-17.7765,177.4356,Nature & Adventure,Beach,Winter,6,259,1554,4.7,Taxi/Rideshare,117.0,58.0,32.0,WP155-03
+Nadi,Fiji,Oceania,-17.7765,177.4356,Food & Local Life,Beach,Winter,5,278,1390,4.4,Walking,109.0,35.0,33.0,WP155-04
+Nadi,Fiji,Oceania,-17.7765,177.4356,Family Holiday,Beach,Winter,5,276,1380,3.4,Taxi/Rideshare,139.0,49.0,16.0,WP155-05
+Nadi,Fiji,Oceania,-17.7765,177.4356,Relaxation,Beach,Winter,7,284,1988,4.4,Taxi/Rideshare,116.0,63.0,36.0,WP155-06
+Papeete,French Polynesia,Oceania,-17.5516,-149.5585,Budget Backpacking,Beach,Winter,7,132,924,4.7,Walking,60.0,17.0,13.0,WP156-01
+Papeete,French Polynesia,Oceania,-17.5516,-149.5585,Culture & History,Beach,Winter,6,146,876,3.9,Taxi/Rideshare,59.0,19.0,17.0,WP156-02
+Papeete,French Polynesia,Oceania,-17.5516,-149.5585,Nature & Adventure,Beach,Winter,4,172,688,4.5,Rental Car,62.0,29.0,13.0,WP156-03
+Papeete,French Polynesia,Oceania,-17.5516,-149.5585,Food & Local Life,Beach,Winter,5,166,830,4.9,Taxi/Rideshare,46.0,36.0,16.0,WP156-04
+Papeete,French Polynesia,Oceania,-17.5516,-149.5585,Family Holiday,Beach,Winter,10,215,2150,4.1,Train,106.0,53.0,20.0,WP156-05
+Papeete,French Polynesia,Oceania,-17.5516,-149.5585,Relaxation,Beach,Winter,4,230,920,4.7,Taxi/Rideshare,63.0,34.0,22.0,WP156-06
+Port Moresby,Papua New Guinea,Oceania,-9.4438,147.1803,Budget Backpacking,Nature,Winter,3,221,663,4.9,Taxi/Rideshare,105.0,29.0,20.0,WP157-01
+Port Moresby,Papua New Guinea,Oceania,-9.4438,147.1803,Culture & History,Nature,Winter,6,213,1278,3.8,Rental Car,99.0,46.0,14.0,WP157-02
+Port Moresby,Papua New Guinea,Oceania,-9.4438,147.1803,Nature & Adventure,Nature,Winter,10,202,2020,4.1,Taxi/Rideshare,80.0,46.0,16.0,WP157-03
+Port Moresby,Papua New Guinea,Oceania,-9.4438,147.1803,Food & Local Life,Nature,Winter,6,217,1302,4.3,Rental Car,69.0,48.0,14.0,WP157-04
+Port Moresby,Papua New Guinea,Oceania,-9.4438,147.1803,Family Holiday,Nature,Winter,8,257,2056,4.8,Rental Car,74.0,53.0,20.0,WP157-05
+Port Moresby,Papua New Guinea,Oceania,-9.4438,147.1803,Relaxation,Nature,Winter,6,256,1536,4.9,Walking,83.0,35.0,20.0,WP157-06
